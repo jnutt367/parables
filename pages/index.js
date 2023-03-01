@@ -55,7 +55,7 @@ export default function Home() {
         </a> 
          <a href="">
            <Image 
-                                src="/right-left.svg"
+                                src="/chevron-right.svg"
                                 alt="right"
                                  height={75}
                                 width={75}
