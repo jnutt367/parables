@@ -138,9 +138,98 @@ and turn, and I would heal them.’[a]
 “Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. “Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.</p>
           </div>
       <div className={styles.card}>
-              <h2 className={styles.chapter}> The Hidden Treasure &darr;</h2>
+              <h2 className={styles.chapter}>  New Cloth on Old Garment &darr;</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                ( MATTHEW 9:16-17 )
+“No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse. Neither do people pour new wine into old wineskins. If they do, the skins will burst; the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.”
+                </p>
+          </div>
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>The Divided Kingdom &darr;</h2>
+            <p>
+                ( MATTHEW 12:24-30 )
+But when the Pharisees heard this, they said, “It is only by Beelzebul, the prince of demons, that this fellow drives out demons.” Jesus knew their thoughts and said to them, “Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand. If Satan drives out Satan, he is divided against himself. How then can his kingdom stand? And if I drive out demons by Beelzebul, by whom do your people drive them out? So then, they will be your judges. But if it is by the Spirit of God that I drive out demons, then the kingdom of God has come upon you. “Or again, how can anyone enter a strong man’s house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house. “Whoever is not with me is against me, and whoever does not gather with me scatters.
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>The Weeds Among the Wheat &darr;</h2>
+            <p>
+                ( MATTHEW 13:24-30 )
+Jesus told them another parable: “The kingdom of heaven is like a man who sowed good seed in his field. But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away. When the wheat sprouted and formed heads, then the weeds also appeared. “The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’
+
+“‘An enemy did this,’ he replied.
+
+“The servants asked him, ‘Do you want us to go and pull them up?’
+
+“‘No,’ he answered, ‘because while you are pulling the weeds, you may uproot the wheat with them. Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat and bring it into my barn.’”
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>The Mustard Seed &darr;</h2>
+            <p>
+               ( MATTHEW 13:31-32 )
+He told them another parable: “The kingdom of heaven is like a mustard seed, which a man took and planted in his field. Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches.”
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>Hidden Treasure &darr;</h2>
+            <p>
+               ( MATTHEW 13:44 )
+“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>Pearl of Great Price &darr;</h2>
+            <p>
+                ( MATTHEW 13:45-46 )
+“Again, the kingdom of heaven is like a merchant looking for fine pearls. When he found one of great value, he went away and sold everything he had and bought it.
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}>The Heart of Man &darr;</h2>
+            <p>
+                MATTHEW 15:10-20
+Jesus called the crowd to him and said, “Listen and understand. What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”
+
+Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+
+He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots. Leave them; they are blind guides.[a] If the blind lead the blind, both will fall into a pit.”
+
+Peter said, “Explain the parable to us.”
+
+“Are you still so dull?” Jesus asked them. “Don’t you see that whatever enters the mouth goes into the stomach and then out of the body? But the things that come out of a person’s mouth come from the heart, and these defile them. For out of the heart come evil thoughts—murder, adultery, sexual immorality, theft, false testimony, slander. These are what defile a person; but eating with unwashed hands does not defile them.”
+                </p>
+          </div>
+
+
+
+
+ <div className={styles.card}>
+              <h2 className={styles.chapter}> &darr;</h2>
+            <p>
+                
                 </p>
           </div>
 
