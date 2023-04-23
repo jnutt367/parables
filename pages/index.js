@@ -126,33 +126,16 @@ and turn, and I would heal them.’[a]
           </div>
 
           <div className={styles.card}>
-               <h2 className={styles.chapter}> The Mustard Seed &darr;</h2>
-            <p>3 But mark this: There will be terrible times in the last days. 2 People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy, 3 without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good, 4 treacherous, rash, conceited, lovers of pleasure rather than lovers of God— 5 having a form of godliness but denying its power. Have nothing to do with such people.
-
-6 They are the kind who worm their way into homes and gain control over gullible women, who are loaded down with sins and are swayed by all kinds of evil desires, 7 always learning but never able to come to a knowledge of the truth. 8 Just as Jannes and Jambres opposed Moses, so also these teachers oppose the truth. They are men of depraved minds, who, as far as the faith is concerned, are rejected. 9 But they will not get very far because, as in the case of those men, their folly will be clear to everyone.
-
-A Final Charge to Timothy
-10 You, however, know all about my teaching, my way of life, my purpose, faith, patience, love, endurance, 11 persecutions, sufferings—what kinds of things happened to me in Antioch, Iconium and Lystra, the persecutions I endured. Yet the Lord rescued me from all of them. 12 In fact, everyone who wants to live a godly life in Christ Jesus will be persecuted, 13 while evildoers and impostors will go from bad to worse, deceiving and being deceived. 14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, 15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God[a] may be thoroughly equipped for every good work.</p>
+               <h2 className={styles.chapter}> Parable of the Lamp - &darr;</h2>
+            <p> ( MATTHEW 5:14-16 )
+“You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.</p>
           </div>
 
 
           <div className={styles.card}>
-              <h2 className={styles.chapter}> The Leaven &darr;</h2>
-            <p>4 In the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of his appearing and his kingdom, I give you this charge: 2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage—with great patience and careful instruction. 3 For the time will come when people will not put up with sound doctrine. Instead, to suit their own desires, they will gather around them a great number of teachers to say what their itching ears want to hear. 4 They will turn their ears away from the truth and turn aside to myths. 5 But you, keep your head in all situations, endure hardship, do the work of an evangelist, discharge all the duties of your ministry.
-
-6 For I am already being poured out like a drink offering, and the time for my departure is near. 7 I have fought the good fight, I have finished the race, I have kept the faith. 8 Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but also to all who have longed for his appearing.
-
-Personal Remarks
-9 Do your best to come to me quickly, 10 for Demas, because he loved this world, has deserted me and has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia. 11 Only Luke is with me. Get Mark and bring him with you, because he is helpful to me in my ministry. 12 I sent Tychicus to Ephesus. 13 When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.
-
-14 Alexander the metalworker did me a great deal of harm. The Lord will repay him for what he has done. 15 You too should be on your guard against him, because he strongly opposed our message.
-
-16 At my first defense, no one came to my support, but everyone deserted me. May it not be held against them. 17 But the Lord stood at my side and gave me strength, so that through me the message might be fully proclaimed and all the Gentiles might hear it. And I was delivered from the lion’s mouth. 18 The Lord will rescue me from every evil attack and will bring me safely to his heavenly kingdom. To him be glory for ever and ever. Amen.
-
-Final Greetings
-19 Greet Priscilla[a] and Aquila and the household of Onesiphorus. 20 Erastus stayed in Corinth, and I left Trophimus sick in Miletus. 21 Do your best to get here before winter. Eubulus greets you, and so do Pudens, Linus, Claudia and all the brothers and sisters.[b]
-
-22 The Lord be with your spirit. Grace be with you all.</p>
+              <h2 className={styles.chapter}> the Speck and The Log  &darr;</h2>
+            <p>-( MATTHEW 7:1-5 )
+“Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. “Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.</p>
           </div>
       <div className={styles.card}>
               <h2 className={styles.chapter}> The Hidden Treasure &darr;</h2>
