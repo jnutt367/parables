@@ -94,7 +94,7 @@ Examples of Disloyalty and Loyalty
           </div>
 
           <div className={styles.card}>
-              <h2 className={styles.chapter}> II Timothy Chapter II &darr;</h2>
+              <h2 className={styles.chapter}> The seed & the sower &darr;</h2>
             <p>The Appeal Renewed
 2 You then, my son, be strong in the grace that is in Christ Jesus. 2 And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others. 3 Join with me in suffering, like a good soldier of Christ Jesus. 4 No one serving as a soldier gets entangled in civilian affairs, but rather tries to please his commanding officer. 5 Similarly, anyone who competes as an athlete does not receive the victor’s crown except by competing according to the rules. 6 The hardworking farmer should be the first to receive a share of the crops. 7 Reflect on what I am saying, for the Lord will give you insight into all this.
 
@@ -121,7 +121,7 @@ Dealing With False Teachers
           </div>
 
           <div className={styles.card}>
-               <h2 className={styles.chapter}> II Timothy Chapter III &darr;</h2>
+               <h2 className={styles.chapter}> The Mustard Seed &darr;</h2>
             <p>3 But mark this: There will be terrible times in the last days. 2 People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy, 3 without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good, 4 treacherous, rash, conceited, lovers of pleasure rather than lovers of God— 5 having a form of godliness but denying its power. Have nothing to do with such people.
 
 6 They are the kind who worm their way into homes and gain control over gullible women, who are loaded down with sins and are swayed by all kinds of evil desires, 7 always learning but never able to come to a knowledge of the truth. 8 Just as Jannes and Jambres opposed Moses, so also these teachers oppose the truth. They are men of depraved minds, who, as far as the faith is concerned, are rejected. 9 But they will not get very far because, as in the case of those men, their folly will be clear to everyone.
@@ -132,7 +132,7 @@ A Final Charge to Timothy
 
 
           <div className={styles.card}>
-              <h2 className={styles.chapter}> II Timothy Chapter IV &darr;</h2>
+              <h2 className={styles.chapter}> The Leaven &darr;</h2>
             <p>4 In the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of his appearing and his kingdom, I give you this charge: 2 Preach the word; be prepared in season and out of season; correct, rebuke and encourage—with great patience and careful instruction. 3 For the time will come when people will not put up with sound doctrine. Instead, to suit their own desires, they will gather around them a great number of teachers to say what their itching ears want to hear. 4 They will turn their ears away from the truth and turn aside to myths. 5 But you, keep your head in all situations, endure hardship, do the work of an evangelist, discharge all the duties of your ministry.
 
 6 For I am already being poured out like a drink offering, and the time for my departure is near. 7 I have fought the good fight, I have finished the race, I have kept the faith. 8 Now there is in store for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day—and not only to me, but also to all who have longed for his appearing.
@@ -148,6 +148,12 @@ Final Greetings
 19 Greet Priscilla[a] and Aquila and the household of Onesiphorus. 20 Erastus stayed in Corinth, and I left Trophimus sick in Miletus. 21 Do your best to get here before winter. Eubulus greets you, and so do Pudens, Linus, Claudia and all the brothers and sisters.[b]
 
 22 The Lord be with your spirit. Grace be with you all.</p>
+          </div>
+      <div className={styles.card}>
+              <h2 className={styles.chapter}> The Hidden Treasure &darr;</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
           </div>
 
         </div>
