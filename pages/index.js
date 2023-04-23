@@ -71,53 +71,58 @@ export default function Home() {
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
-            <p>
-            1 Paul, an apostle of Christ Jesus by the will of God, in keeping with the promise of life that is in Christ Jesus,
+            <p>( MATTHEW 13:10 )
+            10 The disciples came to him and asked, “Why do you speak to the people in parables?”
 
-2 To Timothy, my dear son:
+11 He replied, “Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
 
-Grace, mercy and peace from God the Father and Christ Jesus our Lord.
+“Though seeing, they do not see;
+    though hearing, they do not hear or understand.
 
-Thanksgiving
-3 I thank God, whom I serve, as my ancestors did, with a clear conscience, as night and day I constantly remember you in my prayers. 4 Recalling your tears, I long to see you, so that I may be filled with joy. 5 I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.
+14 In them is fulfilled the prophecy of Isaiah:
 
-Appeal for Loyalty to Paul and the Gospel
-6 For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands. 7 For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline. 8 So do not be ashamed of the testimony about our Lord or of me his prisoner. Rather, join with me in suffering for the gospel, by the power of God. 9 He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace. This grace was given us in Christ Jesus before the beginning of time, 10 but it has now been revealed through the appearing of our Savior, Christ Jesus, who has destroyed death and has brought life and immortality to light through the gospel. 11 And of this gospel I was appointed a herald and an apostle and a teacher. 12 That is why I am suffering as I am. Yet this is no cause for shame, because I know whom I have believed, and am convinced that he is able to guard what I have entrusted to him until that day.
+“‘You will be ever hearing but never understanding;
+    you will be ever seeing but never perceiving.
+15 For this people’s heart has become calloused;
+    they hardly hear with their ears,
+    and they have closed their eyes.
+Otherwise they might see with their eyes,
+    hear with their ears,
+    understand with their hearts
+and turn, and I would heal them.’[a]
 
-13 What you heard from me, keep as the pattern of sound teaching, with faith and love in Christ Jesus. 14 Guard the good deposit that was entrusted to you—guard it with the help of the Holy Spirit who lives in us.
-
-Examples of Disloyalty and Loyalty
-15 You know that everyone in the province of Asia has deserted me, including Phygelus and Hermogenes.
-
-16 May the Lord show mercy to the household of Onesiphorus, because he often refreshed me and was not ashamed of my chains. 17 On the contrary, when he was in Rome, he searched hard for me until he found me. 18 May the Lord grant that he will find mercy from the Lord on that day! You know very well in how many ways he helped me in Ephesus.
-            </p>
+16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.   </p>
           </div>
 
           <div className={styles.card}>
               <h2 className={styles.chapter}> The seed & the sower &darr;</h2>
-            <p>The Appeal Renewed
-2 You then, my son, be strong in the grace that is in Christ Jesus. 2 And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others. 3 Join with me in suffering, like a good soldier of Christ Jesus. 4 No one serving as a soldier gets entangled in civilian affairs, but rather tries to please his commanding officer. 5 Similarly, anyone who competes as an athlete does not receive the victor’s crown except by competing according to the rules. 6 The hardworking farmer should be the first to receive a share of the crops. 7 Reflect on what I am saying, for the Lord will give you insight into all this.
+            <p>The Parable of the Sower ( MATTHEW 13:1-23 )
+13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying: “A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants. 8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
 
-8 Remember Jesus Christ, raised from the dead, descended from David. This is my gospel, 9 for which I am suffering even to the point of being chained like a criminal. But God’s word is not chained. 10 Therefore I endure everything for the sake of the elect, that they too may obtain the salvation that is in Christ Jesus, with eternal glory.
+10 The disciples came to him and asked, “Why do you speak to the people in parables?”
 
-11 Here is a trustworthy saying:
+11 He replied, “Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
 
-If we died with him,
-    we will also live with him;
-12 if we endure,
-    we will also reign with him.
-If we disown him,
-    he will also disown us;
-13 if we are faithless,
-    he remains faithful,
-    for he cannot disown himself.
+“Though seeing, they do not see;
+    though hearing, they do not hear or understand.
 
-Dealing With False Teachers
-14 Keep reminding God’s people of these things. Warn them before God against quarreling about words; it is of no value, and only ruins those who listen. 15 Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth. 16 Avoid godless chatter, because those who indulge in it will become more and more ungodly. 17 Their teaching will spread like gangrene. Among them are Hymenaeus and Philetus, 18 who have departed from the truth. They say that the resurrection has already taken place, and they destroy the faith of some. 19 Nevertheless, God’s solid foundation stands firm, sealed with this inscription: “The Lord knows those who are his,” and, “Everyone who confesses the name of the Lord must turn away from wickedness.”
+14 In them is fulfilled the prophecy of Isaiah:
 
-20 In a large house there are articles not only of gold and silver, but also of wood and clay; some are for special purposes and some for common use. 21 Those who cleanse themselves from the latter will be instruments for special purposes, made holy, useful to the Master and prepared to do any good work.
+“‘You will be ever hearing but never understanding;
+    you will be ever seeing but never perceiving.
+15 For this people’s heart has become calloused;
+    they hardly hear with their ears,
+    and they have closed their eyes.
+Otherwise they might see with their eyes,
+    hear with their ears,
+    understand with their hearts
+and turn, and I would heal them.’[a]
 
-22 Flee the evil desires of youth and pursue righteousness, faith, love and peace, along with those who call on the Lord out of a pure heart. 23 Don’t have anything to do with foolish and stupid arguments, because you know they produce quarrels. 24 And the Lord’s servant must not be quarrelsome but must be kind to everyone, able to teach, not resentful. 25 Opponents must be gently instructed, in the hope that God will grant them repentance leading them to a knowledge of the truth, 26 and that they will come to their senses and escape from the trap of the devil, who has taken them captive to do his will.</p>
+16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
+
+18 “Listen then to what the parable of the sower means: 19 When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. 20 The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. 21 But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. 22 The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed falling on good soil refers to someone who hears the word and understands it. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown.”
+
+</p>
           </div>
 
           <div className={styles.card}>
