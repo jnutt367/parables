@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Parables: The WORD of GOD: "Risen"</title>
-        <meta name="description" content="The WORD of GOD: "Risen" Application" />
+        <meta name="description" content="The WORD of GOD: Risen" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
