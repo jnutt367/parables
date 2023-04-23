@@ -25,7 +25,7 @@ export default function Home() {
          <div  className={styles.image}>
        <Image 
                                 src="/Praying.png"
-                                alt="Jesus teaching"
+                                alt="PERSON PRAYS 3D IMAGE"
                                 height={900}
                                 width={2000}
                                 priority
@@ -67,9 +67,10 @@ export default function Home() {
                               />
        </a>           
         </div>
+    <p className={styles.fund}>Through speaking in parables, Jesus grants understanding to those who are seeking after Him – revealing truth to those who are willing to listen and thoughtfully consider what He has to say. Conversely, those whose hearts are hardened against Him have the truth hidden from them./p>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}> II Timothy Chapter I &darr;</h2>
+            <h2 className={styles.chapter}> &darr;</h2>
             <p>
             1 Paul, an apostle of Christ Jesus by the will of God, in keeping with the promise of life that is in Christ Jesus,
 
