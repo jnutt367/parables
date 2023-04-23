@@ -31,7 +31,7 @@ export default function Home() {
                                 priority
                               />
            </div>
-                                  
+<p className={styles.fund}>Through speaking in parables, Jesus grants understanding to those who are seeking after Him – revealing truth to those who are willing to listen and thoughtfully consider what He has to say. Conversely, those whose hearts are hardened against Him have the truth hidden from them.</p>
         <iframe width="100%" height="250" src="https://www.youtube.com/embed/dhsAjjz8WLk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
 
@@ -70,7 +70,7 @@ export default function Home() {
     
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}> &darr;</h2>
+            <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
             <p>
             1 Paul, an apostle of Christ Jesus by the will of God, in keeping with the promise of life that is in Christ Jesus,
 
