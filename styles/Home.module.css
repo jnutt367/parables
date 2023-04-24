@@ -74,8 +74,8 @@
    text-align: center;
     color: white;
     position: relative;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 120px;
+    padding-left: 120px;
     margin-top: 25px;
     top: 5px;
     font-family:"Times New Roman", Times, serif;
@@ -123,7 +123,7 @@
 }
 .hero {
   max-height: 450px; 
-  max-width: 1500px;
+  max-width: 1350px;
   position:relative;
   top: -105px;
 }
