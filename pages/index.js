@@ -227,10 +227,10 @@ Peter said, “Explain the parable to us.”
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}> &darr;</h2>
+              <h2 className={styles.chapter}> Parable of The Leaven &darr;</h2>
             <p>
-                
-                </p>
+                ( MATTHEW 13:33-34 )
+He told them still another parable: “The kingdom of heaven is like yeast that a woman took and mixed into about sixty pounds[a] of flour until it worked all through the dough.” Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.</p>
           </div>
 
         </div>
