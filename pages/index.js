@@ -251,6 +251,62 @@ Parable of The Net &darr;</h2>
   </p>
   </div>
 
+ <div className={styles.card}>
+   <h2 className={styles.chapter}> 
+Parable of The Net &darr;</h2>
+ <p>
+( MATTHEW 13:47-50 )
+“Once again, the kingdom of heaven is like a net that was let down into the lake and caught all kinds of fish. When it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away. This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous and throw them into the blazing furnace, where there will be weeping and gnashing of teeth.
+  </p>
+  </div>
+
+
+<div className={styles.card}>
+   <h2 className={styles.chapter}>Parable of The Unforgiving Servant &darr;</h2>
+ <p>( MATTHEW 18:23-35 )
+“Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants. As he began the settlement, a man who owed him ten thousand bags of gold was brought to him. Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt.
+
+“At this the servant fell on his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’ The servant’s master took pity on him, canceled the debt and let him go.
+
+“But when that servant went out, he found one of his fellow servants who owed him a hundred silver coins. He grabbed him and began to choke him. ‘Pay back what you owe me!’ he demanded.
+
+“His fellow servant fell to his knees and begged him, ‘Be patient with me, and I will pay it back.’
+
+“But he refused. Instead, he went off and had the man thrown into prison until he could pay the debt. When the other servants saw what had happened, they were outraged and went and told their master everything that had happened.
+
+“Then the master called the servant in. ‘You wicked servant,’ he said, ‘I canceled all that debt of yours because you begged me to. Shouldn’t you have had mercy on your fellow servant just as I had on you?’ In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.
+
+“This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”
+
+ 
+  </p>
+  </div>
+
+<div className={styles.card}>
+   <h2 className={styles.chapter}>Laborers in the Vineyard &darr;</h2>
+ <p>( MATTHEW 20:1-16 )
+“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
+
+“About nine in the morning he went out and saw others standing in the marketplace doing nothing. He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’ So they went.
+
+“He went out again about noon and about three in the afternoon and did the same thing. About five in the afternoon he went out and found still others standing around. He asked them, ‘Why have you been standing here all day long doing nothing?’
+
+“‘Because no one has hired us,’ they answered.
+
+“He said to them, ‘You also go and work in my vineyard.’
+
+“When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.’
+
+“The workers who were hired about five in the afternoon came and each received a denarius. So when those came who were hired first, they expected to receive more. But each one of them also received a denarius. When they received it, they began to grumble against the landowner. ‘These who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden of the work and the heat of the day.’
+
+“But he answered one of them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius? Take your pay and go. I want to give the one who was hired last the same as I gave you. Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’
+
+“So the last will be first, and the first will be last.”
+
+
+  </p>
+  </div>
+
 
         </div>
       </div>
