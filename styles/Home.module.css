@@ -123,6 +123,7 @@
 }
 .hero {
   max-height: 500px; 
+  max-width: 1200px;
   position:relative;
   top: -105px;
 }
