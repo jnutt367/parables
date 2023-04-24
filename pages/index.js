@@ -232,8 +232,26 @@ Peter said, “Explain the parable to us.”
                 ( MATTHEW 13:33-34 )
 He told them still another parable: “The kingdom of heaven is like yeast that a woman took and mixed into about sixty pounds[a] of flour until it worked all through the dough.” Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.</p>
           </div>
+ <div className={styles.card}>
+   <h2 className={styles.chapter}> 
+Parable of The Net &darr;</h2>
+ <p>
+( MATTHEW 13:47-50 )
+“Once again, the kingdom of heaven is like a net that was let down into the lake and caught all kinds of fish. When it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away. This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous and throw them into the blazing furnace, where there will be weeping and gnashing of teeth.
+  </p>
+  </div>
 
-        </div>
+
+<div className={styles.card}>
+   <h2 className={styles.chapter}> Parable of The Lost Sheep &darr;</h2>
+ <p>
+( MATTHEW  18:10-14 )
+“See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
+
+“What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off? And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off. In the same way your Father in heaven is not willing that any of these little ones should perish.  </p>
+  </div>
+
+
         </div>
       </main>
 
