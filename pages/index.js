@@ -67,7 +67,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-    </div>
+    
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
@@ -309,7 +309,7 @@ Parable of The Net &darr;</h2>
 
 
         </div>
-     
+      </div>
       </main>
 
     
