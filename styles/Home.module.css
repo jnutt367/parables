@@ -122,8 +122,8 @@
     align-items: center;
 }
 .hero {
-  max-height: 500px; 
-  max-width: 1200px;
+  max-height: 450px; 
+  max-width: 1500px;
   position:relative;
   top: -105px;
 }
@@ -135,7 +135,7 @@
 .footer a {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
     flex-grow: 1;
 }
 
