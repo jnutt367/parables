@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Parables: The WORD of GOD: "Risen"</title>
+        <title>The WORD of GOD: "Risen", Parables</title>
         <meta name="description" content="The WORD of GOD: Risen" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -323,6 +323,36 @@ Parable of The Net &darr;</h2>
 
 Jesus said to them, “Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. 32 For John came to you to show you the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him.</p>
 </div>
+
+<div className={styles.card}>
+   <h2 className={styles.chapter}>
+  Parable of The Tenant Farmers</h2> 
+<p>MATTHEW ( 21:33-45 )
+“Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. When the harvest time approached, he sent his servants to the tenants to collect his fruit.
+
+“The tenants seized his servants; they beat one, killed another, and stoned a third. Then he sent other servants to them, more than the first time, and the tenants treated them the same way. Last of all, he sent his son to them. ‘They will respect my son,’ he said.
+
+“But when the tenants saw the son, they said to each other, ‘This is the heir. Come, let’s kill him and take his inheritance.’ So they took him and threw him out of the vineyard and killed him.
+
+“Therefore, when the owner of the vineyard comes, what will he do to those tenants?”
+
+“He will bring those wretches to a wretched end,” they replied, “and he will rent the vineyard to other tenants, who will give him his share of the crop at harvest time.”
+
+Jesus said to them, “Have you never read in the Scriptures:
+
+“‘The stone the builders rejected
+
+    has become the cornerstone;
+
+the Lord has done this,
+
+    and it is marvelous in our eyes’[a]?
+
+“Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit. 44 Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed.”
+
+When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them.</p>
+  </div>
+
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
