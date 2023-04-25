@@ -81,7 +81,10 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
-
+.parables {
+    color: white;
+    text-shadow: 1px 1px gold;
+}
 .image {
     background-image: url(/monophy.gif);
     background-color: black;
