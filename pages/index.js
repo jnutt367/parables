@@ -325,12 +325,7 @@ Parable of The Net &darr;</h2>
                       </a>
         </p>
 <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                   
-<p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20</p> 
-
-
-               <p className={styles.hide}> understanding proverbs and parables,
-    the sayings and riddles of the wise.</p>
-        </div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m1AY32BuKdo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>        </div>
       </div>
       </main>
 
