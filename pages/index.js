@@ -306,6 +306,23 @@ Parable of The Net &darr;</h2>
 
   </p>
   </div>
+
+
+<div className={styles.card}>
+   <h2 className={styles.chapter}>Parable of The Two Sons &darr;</h2>
+  <p>( MATTHEW 21:28-32 )
+“What do you think? There was a man who had two sons. He went to the first and said, ‘Son, go and work today in the vineyard.’
+
+“‘I will not,’ he answered, but later he changed his mind and went.
+
+“Then the father went to the other son and said the same thing. He answered, ‘I will, sir,’ but he did not go.
+
+“Which of the two did what his father wanted?”
+
+“The first,” they answered.
+
+Jesus said to them, “Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. 32 For John came to you to show you the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him.</p>
+</div>
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
