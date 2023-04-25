@@ -84,13 +84,12 @@
 .parables {
     text-align: center;
     color: white;
-    text-shadow: 1px 1px red;
     position: relative;
     padding-right: 20px;
     padding-left: 20px;
     margin-top: 25px;
     top: 5px;
-    font-family:"Times New Roman", Times, serif;
+    font-family:fantasy, cursive, "Times New Roman", Times, serif;
     font-weight: 900;
 }
 .image {
