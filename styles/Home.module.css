@@ -72,7 +72,7 @@
 }
 .fund {
    text-align: center;
-    color: white;
+    color: black;
     position: relative;
     padding-right: 20px;
     padding-left: 20px;
@@ -402,7 +402,7 @@
 
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
-    color: white;
+    color: black;
     margin-left: 2rem;
 }
 
