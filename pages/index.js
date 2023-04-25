@@ -306,8 +306,30 @@ Parable of The Net &darr;</h2>
 
   </p>
   </div>
+<div  className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="the Last supper"
+                                 height={900}
+                                width={2000}
+                                priority
+                              />
+           </div>
+
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+ <a href="https://gofund.me/a2b590af" target="_blank">  
+                          <p className={styles.fund}>Help Fund This Bible</p>  
+                      </a>
+        </p>
+<iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                   
+<p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20</p> 
 
 
+               <p className={styles.hide}> understanding proverbs and parables,
+    the sayings and riddles of the wise.</p>
         </div>
       </div>
       </main>
