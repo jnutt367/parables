@@ -352,6 +352,35 @@ the Lord has done this,
 
 When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them.</p>
   </div>
+    <div className={styles.card}>
+   <h2 className={styles.chapter}>
+Parable of the Marriage Feast </h2>
+<p>
+  ( MATTHEW 22:1-14 )
+Jesus spoke to them again in parables, saying: “The kingdom of heaven is like a king who prepared a wedding banquet for his son. He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.
+
+“Then he sent some more servants and said, ‘Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.’
+
+“But they paid no attention and went off—one to his field, another to his business. The rest seized his servants, mistreated them and killed them. The king was enraged. He sent his army and destroyed those murderers and burned their city.
+
+“Then he said to his servants, ‘The wedding banquet is ready, but those I invited did not deserve to come. So go to the street corners and invite to the banquet anyone you find.’ So the servants went out into the streets and gathered all the people they could find, the bad as well as the good, and the wedding hall was filled with guests.
+
+“But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes. He asked, ‘How did you get in here without wedding clothes, friend?’ The man was speechless.
+
+“Then the king told the attendants, ‘Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.’
+
+“For many are invited, but few are chosen.”
+  </p>
+</div>
+ <div className={styles.card}>
+   <h2 className={styles.chapter}>
+The Budding Fig Tree</h2>
+<p>
+  ( MATTHEW 24:32-35 )
+“Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. Even so, when you see all these things, you know that it[a] is near, right at the door. Truly I tell you, this generation will certainly not pass away until all these things have happened. Heaven and earth will pass away, but my words will never pass away."
+  </p>
+</div>
+
 
 <div  className={styles.image}>
        <Image 
