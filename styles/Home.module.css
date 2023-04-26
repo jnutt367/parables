@@ -346,6 +346,7 @@
     position: sticky;
     z-index: 1;
     width: 100%;
+    font-weight: 200;
     text-align: center;
     top: 0px;
     margin: 0;
@@ -353,12 +354,7 @@
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
-.chapter:hover,
-.chapter:focus,
-.chapter:active {
-    font-weight: bolder;
-    opacity: 1;
-}
+
 .card:hover,
 .card:focus,
 .card:active {
