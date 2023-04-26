@@ -340,8 +340,8 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #ED7014;
-    color: black;
+    background-color: black;
+    color: white;
     opacity: 1;
     position: sticky;
     z-index: 1;
