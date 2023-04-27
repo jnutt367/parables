@@ -384,7 +384,62 @@ The Budding Fig Tree</h2>
   </p>
 </div>
 
+ <div className={styles.card}>
+   <h2 className={styles.chapter}>The Faithful vs. Wicked Servant
+</h2>
+<p>
+  ( MATTHEW 24:45-51 )
+“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns. Truly I tell you, he will put him in charge of all his possessions. But suppose that servant is wicked and says to himself, ‘My master is staying away a long time,’ and he then begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
+"
+  </p>
+</div>
+<div className={styles.card}>
+   <h2 className={styles.chapter}>The Ten Virgins</h2>
+   <p>
+   ( MATTHEW 25:1-13 )
+   “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. Five of them were foolish and five were wise. The foolish ones took their lamps but did not take any oil with them. The wise ones, however, took oil in jars along with their lamps. The bridegroom was a long time in coming, and they all became drowsy and fell asleep.
 
+“At midnight the cry rang out: ‘Here’s the bridegroom! Come out to meet him!’
+
+“Then all the virgins woke up and trimmed their lamps. 8 The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’
+
+“‘No,’ they replied, ‘there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’
+
+“But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut.
+
+“Later the others also came. ‘Lord, Lord,’ they said, ‘open the door for us!’
+
+“But he replied, ‘Truly I tell you, I don’t know you.’
+
+“Therefore keep watch, because you do not know the day or the hour."
+   </p>
+   </div>
+   
+   <div className={styles.card}>
+   <h2 className={styles.chapter}>Parable of Ten Talents</h2>
+   <p>
+   ( MATTHEW 25:14-30 )
+
+   “Again, it will be like a man going on a journey, who called his servants and entrusted his wealth to them. To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability. Then he went on his journey. The man who had received five bags of gold went at once and put his money to work and gained five bags more. So also, the one with two bags of gold gained two more. But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.
+
+“After a long time the master of those servants returned and settled accounts with them. The man who had received five bags of gold brought the other five. ‘Master,’ he said, ‘you entrusted me with five bags of gold. See, I have gained five more.’
+
+“His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+
+“The man with two bags of gold also came. ‘Master,’ he said, ‘you entrusted me with two bags of gold; see, I have gained two more.’
+
+“His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+
+“Then the man who had received one bag of gold came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your gold in the ground. See, here is what belongs to you.’
+
+“His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
+
+“‘So take the bag of gold from him and give it to the one who has ten bags. For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
+   </p>
+   </div>
+   <div className={styles.book}>
+    <h2>Parables in Mark</h2>
+</div>  
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
