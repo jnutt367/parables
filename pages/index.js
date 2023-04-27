@@ -67,8 +67,10 @@ export default function Home() {
                               />
        </a>           
         </div>
-    
-        <div className={styles.grid}>
+<div>
+    <h2>Parables in Matthew</h2>
+</div>     
+<div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
             <p>( MATTHEW 13:10 )
