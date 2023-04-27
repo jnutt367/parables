@@ -67,7 +67,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-<div className={styles.card}>
+<div className={styles.book}>
     <h2>Parables in Matthew</h2>
 </div>  
 <div className={styles.grid}>
