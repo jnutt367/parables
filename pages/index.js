@@ -437,9 +437,18 @@ The Budding Fig Tree</h2>
 “‘So take the bag of gold from him and give it to the one who has ten bags. For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
    </p>
    </div>
+</div>
    <div className={styles.book}>
     <h2>Parables in Mark</h2>
 </div>  
+<div className={styles.grid}>
+    
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>Parable of The Lamp &darr;</h2>
+            <p> ( MARK 4:21-25 )
+He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand? For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open. If anyone has ears to hear, let them hear.” “Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more. Whoever has will be given more; whoever does not have, even what they have will be taken from them.”  </p>
+          </div>
+</div>
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
