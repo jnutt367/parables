@@ -105,6 +105,10 @@
     alig-items: center;
     opacity: 1;
 }
+.book {
+    text-align: center;
+    font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .donate {
   background-color:white;
   opacity: 0.8;
