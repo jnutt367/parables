@@ -448,7 +448,26 @@ The Budding Fig Tree</h2>
             <p> ( MARK 4:21-25 )
 He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand? For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open. If anyone has ears to hear, let them hear.” “Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more. Whoever has will be given more; whoever does not have, even what they have will be taken from them.”  </p>
           </div>
-</div>
+
+         <div className={styles.card}>
+                    <h2 className={styles.chapter}>New Cloth on Old Garment &darr;</h2>
+                    <p> (  MARK 2:21-22 )
+        “No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse. And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.”</p>
+                  </div>
+
+      <div className={styles.card}>
+                          <h2 className={styles.chapter}>The Divided Kingdom &darr;</h2>
+                          <p> ( MARK 3:23-27 )
+              "So Jesus called them over to him and began to speak to them in parables: “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."</p>
+                        </div>
+       <div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Sower</h2>
+                      <p>( MARK 4:1-20 )
+
+                      Again Jesus began to teach by the lake. The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water’s edge. He taught them many things by parables, and in his teaching said: “Listen! A farmer went out to sow his seed. As he was scattering the seed, some fell along the path, and the birds came and ate it up. Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. But when the sun came up, the plants were scorched, and they withered because they had no root. Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain. Still other seed fell on good soil. It came up, grew and produced a crop, some multiplying thirty, some sixty, some a hundred times.”
+                      </p>
+                      </div>
+      </div>
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
