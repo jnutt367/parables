@@ -440,15 +440,13 @@
         padding-right: 120px;
         padding-left: 120px; 
     }
-    .image {
-        margin-left: 100px; 
-        margin-right: 100px;  
-    }
 }
 @media (min-width: 1080px) {
          .image {
         padding-left: 200px;
-        padding-right: 200px;      
+        padding-right: 200px;
+        margin-left: 100px; 
+        margin-right: 100px;      
     }
         .grid {
         grid-template-columns: 200px 200px 200px;
