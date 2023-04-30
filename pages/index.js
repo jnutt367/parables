@@ -420,21 +420,21 @@ The Budding Fig Tree</h2>
    <p>
    ( MATTHEW 25:14-30 )
 
-   “Again, it will be like a man going on a journey, who called his servants and entrusted his wealth to them. To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability. Then he went on his journey. The man who had received five bags of gold went at once and put his money to work and gained five bags more. So also, the one with two bags of gold gained two more. But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.
+           “Again, it will be like a man going on a journey, who called his servants and entrusted his wealth to them. To one he gave five bags of gold, to another two bags, and to another one bag, each according to his ability. Then he went on his journey. The man who had received five bags of gold went at once and put his money to work and gained five bags more. So also, the one with two bags of gold gained two more. But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.
 
-“After a long time the master of those servants returned and settled accounts with them. The man who had received five bags of gold brought the other five. ‘Master,’ he said, ‘you entrusted me with five bags of gold. See, I have gained five more.’
+        “After a long time the master of those servants returned and settled accounts with them. The man who had received five bags of gold brought the other five. ‘Master,’ he said, ‘you entrusted me with five bags of gold. See, I have gained five more.’
 
-“His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+        “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
 
-“The man with two bags of gold also came. ‘Master,’ he said, ‘you entrusted me with two bags of gold; see, I have gained two more.’
+        “The man with two bags of gold also came. ‘Master,’ he said, ‘you entrusted me with two bags of gold; see, I have gained two more.’
 
-“His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+        “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
 
-“Then the man who had received one bag of gold came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your gold in the ground. See, here is what belongs to you.’
+        “Then the man who had received one bag of gold came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your gold in the ground. See, here is what belongs to you.’
 
-“His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
+        “His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
 
-“‘So take the bag of gold from him and give it to the one who has ten bags. For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
+        “‘So take the bag of gold from him and give it to the one who has ten bags. For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
    </p>
    </div>
 </div>
@@ -467,6 +467,38 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                       Again Jesus began to teach by the lake. The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water’s edge. He taught them many things by parables, and in his teaching said: “Listen! A farmer went out to sow his seed. As he was scattering the seed, some fell along the path, and the birds came and ate it up. Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. But when the sun came up, the plants were scorched, and they withered because they had no root. Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain. Still other seed fell on good soil. It came up, grew and produced a crop, some multiplying thirty, some sixty, some a hundred times.”
                       </p>
                       </div>
+
+                      <div className={styles.card}>
+                          <h2 className={styles.chapter}>The Growing Seed &darr;</h2>
+                          <p> ( MARK 4:26-29 )
+              "So Jesus called them over to him and began to speak to them in parables: “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."</p>
+                        </div>
+                     <div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Sower</h2>
+                      <p>( MARK 4:1-20 )
+
+                      He also said, “This is what the kingdom of God is like. A man scatters seed on the ground. Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how. All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head. As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.” 
+                      </p>
+                      </div>
+
+
+                       <div className={styles.card}>
+                          <h2 className={styles.chapter}>The Growing Seed &darr;</h2>
+                          <p> ( MARK 4:26-29 )
+              He also said, “This is what the kingdom of God is like. A man scatters seed on the ground. Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how. All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head. As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.”</p>
+                        </div>
+                     <div className={styles.card}>
+                          <h2 className={styles.chapter}>The Mustard Seed </h2>
+                      <p>( MARK 4:30-34 )
+
+                      Again he said, “What shall we say the kingdom of God is like, or what parable shall we use to describe it? It is like a mustard seed, which is the smallest of all seeds on earth. Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds can perch in its shade.”  
+                        With many similar parables Jesus spoke the word to them, as much as they could understand. He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.                        </p>
+                      </div>
+
+
+
+        
+                      
       </div>
 <div  className={styles.image}>
        <Image 
