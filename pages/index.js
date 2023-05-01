@@ -31,8 +31,8 @@ export default function Home() {
                                 priority
                               />
            </div>
-<p className={styles.parables}>Through speaking in parables, Jesus grants understanding to those who are seeking after Him – revealing truth to those who are willing to listen and thoughtfully consider what He has to say. Conversely, those whose hearts are hardened against Him have the truth hidden from them.</p>
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/zRC8COfdzTY" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p className={styles.parables}>"Through speaking in parables, Jesus grants understanding to those who are seeking after Him "</p>
+ <iframe width="100%" height="250" src="https://www.youtube.com/embed/zRC8COfdzTY" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
 
 
