@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -290,7 +290,7 @@
 
 .grid {
     background-color: black;
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
     color: white;
     display: flex;
     align-items: center;
