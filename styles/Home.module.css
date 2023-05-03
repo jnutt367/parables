@@ -63,7 +63,7 @@
 */
 .main {
   background-color:  black;
-  background-image: url(/cloud_lightning.webp);
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 2000px;
@@ -207,6 +207,7 @@
   color: white;
   position: sticky; 
   background-color: black;
+  background-image:url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
