@@ -63,6 +63,7 @@
 */
 .main {
   background-color:  black;
+  background-image: url(/cloud_lightning.webp);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 2000px;
