@@ -495,9 +495,17 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                         With many similar parables Jesus spoke the word to them, as much as they could understand. He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.                        </p>
                       </div>
 
+                     <div className={styles.card}>
+                          <h2 className={styles.chapter}> Parable of The Heart of Man</h2> 
+                        
+                        <p> ( MARK 7:14-23 )
+                            Again Jesus called the crowd to him and said, “Listen to me, everyone, and understand this. 15 Nothing outside a person can defile them by going into them. Rather, it is what comes out of a person that defiles them.”
 
+                            After he had left the crowd and entered the house, his disciples asked him about this parable. 18 “Are you so dull?” he asked. “Don’t you see that nothing that enters a person from the outside can defile them? For it doesn’t go into their heart but into their stomach, and then out of the body.”
 
-        
+                            He went on: “What comes out of a person is what defiles them. For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. All these evils come from inside and defile a person.”
+                            </p>
+                        </div>
                       
       </div>
 <div  className={styles.image}>
