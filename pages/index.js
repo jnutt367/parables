@@ -542,7 +542,7 @@ Then the chief priests, the teachers of the law and the elders looked for a way 
                   </div>
     
  <div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant 
+                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
                           <p>( MARK 13:34-37 )
 It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
 
