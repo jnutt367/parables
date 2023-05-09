@@ -506,7 +506,43 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                             He went on: “What comes out of a person is what defiles them. For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. All these evils come from inside and defile a person.”
                             </p>
                         </div>
-                      
+                         <div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Tenant Farmers </h2> 
+                        
+                        <p> ( MARK 12:1-12 ) 
+Jesus then began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. At harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard. But they seized him, beat him and sent him away empty-handed. Then he sent another servant to them; they struck this man on the head and treated him shamefully. He sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.
+
+“He had one left to send, a son, whom he loved. He sent him last of all, saying, ‘They will respect my son.’
+
+“But the tenants said to one another, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’ So they took him and killed him, and threw him out of the vineyard.
+
+“What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others. Haven’t you read this passage of Scripture:
+
+“‘The stone the builders rejected
+
+    has become the cornerstone;
+
+    the Lord has done this,
+
+    and it is marvelous in our eyes’?”
+
+Then the chief priests, the teachers of the law and the elders looked for a way to arrest him because they knew he had spoken the parable against them. But they were afraid of the crowd; so they left him and went away.
+
+        </p>
+    </div>
+
+       <div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Budding Fig Tree </h2> 
+                        
+                        <p>( MARK 13:28-33 )
+                        “Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. Even so, when you see these things happening, you know that it is near, right at the door. Truly I tell you, this generation will certainly not pass away until all these things have happened. Heaven and earth will pass away, but my words will never pass away.
+
+“But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Be on guard! Be alert! You do not know when that time will come.
+                        </p>
+                  </div>
+    
+
+
       </div>
 <div  className={styles.image}>
        <Image 
