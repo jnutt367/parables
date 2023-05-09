@@ -541,8 +541,15 @@ Then the chief priests, the teachers of the law and the elders looked for a way 
                         </p>
                   </div>
     
+ <div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant 
+                          <p>( MARK 13:34-37 )
+It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
 
+“Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
 
+                        </p>
+              </div>
       </div>
 <div  className={styles.image}>
        <Image 
