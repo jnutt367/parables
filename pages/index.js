@@ -550,9 +550,14 @@ It’s like a man going away: He leaves his house and puts his servants in charg
 
                         </p>
               </div>
-<div className={styles.book}>
+
+  </div>
+
+ <div className={styles.book}>
     <h2>Parables in Luke</h2>
 </div>  
+  <div className={styles.grid}>
+   
 <div className={styles.card}>
                           <h2 className={styles.chapter}>Parable of The Good Samaritan </h2>
                       <p>
@@ -567,6 +572,8 @@ The expert in the law replied, “The one who had mercy on him.”
 
 Jesus told him, “Go and do likewise.”                            </p>
       </div>
+    
+    </div>
 </div>
 <div  className={styles.image}>
        <Image 
