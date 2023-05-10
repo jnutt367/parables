@@ -550,7 +550,9 @@ It’s like a man going away: He leaves his house and puts his servants in charg
 
                         </p>
               </div>
-
+<div className={styles.book}>
+    <h2>Parables in Luke</h2>
+</div>  
 <div className={styles.card}>
                           <h2 className={styles.chapter}>Parable of The Good Samaritan </h2>
                       <p>
