@@ -565,6 +565,7 @@ The expert in the law replied, “The one who had mercy on him.”
 
 Jesus told him, “Go and do likewise.”                            </p>
       </div>
+</div>
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
