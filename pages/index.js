@@ -553,27 +553,7 @@ It’s like a man going away: He leaves his house and puts his servants in charg
 
   </div>
 
- <div className={styles.book}>
-    <h2>Parables in Luke</h2>
-</div>  
-  <div className={styles.grid}>
-   
-<div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of The Good Samaritan </h2>
-                      <p>
-                         ( LUKE 10:29-37 )
-                            "But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”
 
-In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. So too, a Levite, when he came to the place and saw him, passed by on the other side. But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
-
-“Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
-
-The expert in the law replied, “The one who had mercy on him.”
-
-Jesus told him, “Go and do likewise.”                            </p>
-      </div>
-    
-    </div>
 </div>
 <div  className={styles.image}>
        <Image 
