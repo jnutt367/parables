@@ -554,7 +554,7 @@ It’s like a man going away: He leaves his house and puts his servants in charg
   </div>
 
 
-</div>
+
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
