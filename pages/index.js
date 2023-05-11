@@ -708,7 +708,7 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
-                                alt="the Last supper"
+                                alt="me in the workshop reading the bible"
                                  height={900}
                                 width={2000}
                                 priority
