@@ -87,11 +87,12 @@
     text-align: center;
     color: white;
     position: relative;
+    padding: 25px;
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
     top: 5px;
-    font-family: monospace, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 700;
 }
 .image {
