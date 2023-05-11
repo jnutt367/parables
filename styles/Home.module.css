@@ -237,6 +237,8 @@
 }
 
 .description {
+    display: grid;
+    text-align: center;
     text-shadow: 1px 1px black;
     color:white;
     padding: 2rem;
