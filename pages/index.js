@@ -558,34 +558,62 @@ It’s like a man going away: He leaves his house and puts his servants in charg
         </div>  
         <div className={styles.grid}>
                <div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
-                          <p>( LUKE )
-It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
+                          <h2 className={styles.chapter}> The Friend at Midnight </h2>
+                          <p>( LUKE 11:5-13 )
 
-“Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
+Then Jesus said to them, “Suppose you have a friend, and you go to him at midnight and say, ‘Friend, lend me three loaves of bread; a friend of mine on a journey has come to me, and I have no food to offer him.’ And suppose the one inside answers, ‘Don’t bother me. The door is already locked, and my children and I are in bed. I can’t get up and give you anything.’ I tell you, even though he will not get up and give you the bread because of friendship, yet because of your shameless audacity he will surely get up and give you as much as you need.
 
+“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+
+“Which of you fathers, if your son asks for a fish, will give him a snake instead? Or if he asks for an egg, will give him a scorpion? If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”
                         </p>
               </div>
 
  <div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
-                          <p>( LUKE )
-It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
+                          <h2 className={styles.chapter}> The Good Samaritan </h2>
+                          <p> ( LUKE 10:29-37 )
+But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”
 
-“Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
+In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. So too, a Levite, when he came to the place and saw him, passed by on the other side. But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
 
+“Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
+
+The expert in the law replied, “The one who had mercy on him.”
+
+Jesus told him, “Go and do likewise.”
                         </p>
               </div>
 
  <div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
-                          <p>( LUKE )
-It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
+                          <h2 className={styles.chapter}> Parable of The Rich Fool</h2>
+                          <p> LUKE ( 12:13-21 )
+  
+Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.”
 
-“Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
+Jesus replied, “Man, who appointed me a judge or an arbiter between you?” Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”
+
+And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. He thought to himself, ‘What shall I do? I have no place to store my crops.’
+
+“Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain. And I’ll say to myself, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.”’
+
+“But God said to him, ‘You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?’
+
+“This is how it will be with whoever stores up things for themselves but is not rich toward God.”
+
 
                         </p>
               </div>
+
+
+<div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Barren Fig Tree</h2>
+                          <p> LUKE ( 13:6-9 )
+  
+Then he told this parable: “A man had a fig tree growing in his vineyard, and he went to look for fruit on it but did not find any. So he said to the man who took care of the vineyard, ‘For three years now I’ve been coming to look for fruit on this fig tree and haven’t found any. Cut it down! Why should it use up the soil?’
+
+“‘Sir,’ the man replied, ‘leave it alone for one more year, and I’ll dig around it and fertilize it. 9 If it bears fruit next year, fine! If not, then cut it down.’”                        </p>
+              </div>
+
 
 
 
