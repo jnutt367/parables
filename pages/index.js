@@ -623,6 +623,19 @@ Then Jesus said to his host, “When you give a luncheon or dinner, do not invit
                     </p>
               </div>
 
+          
+<div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Lost Coin</h2>
+                                  <p>
+                            ( LUKE  )15:8-10
+“Or suppose a woman has ten silver coins and loses one. 
+Doesn’t she light a lamp, sweep the house and search carefully until she finds it? 
+  And when she finds it, she calls her friends and neighbors together and says, 
+  ‘Rejoice with me; I have found my lost coin.’ In the same way, I tell you, there is rejoicing in 
+  the presence of the angels of God over one sinner who repents.”
+              </p>
+          </div>
+
         </div>
 
 
