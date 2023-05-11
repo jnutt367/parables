@@ -677,7 +677,7 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                                   </p>
                                 </div>
                             <div className={styles.card}>
-                                        <h2 className={styles.chapter}>The Persistent Widow
+                                        <h2 className={styles.chapter}>The Persistent Widow</h2>
                                             <p>
                                           ( LUKE 18:1-8 )
                                         Then Jesus told his disciples a parable to show them that they should always pray and not give up. He said: “In a certain town there was a judge who neither feared God nor cared what people thought. And there was a widow in that town who kept coming to him with the plea, ‘Grant me justice against my adversary.’
