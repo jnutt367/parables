@@ -511,23 +511,23 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                           <h2 className={styles.chapter}>Parable of The Tenant Farmers </h2> 
                         
                         <p> ( MARK 12:1-12 ) 
-Jesus then began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. At harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard. But they seized him, beat him and sent him away empty-handed. Then he sent another servant to them; they struck this man on the head and treated him shamefully. He sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.
+                        Jesus then began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. At harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard. But they seized him, beat him and sent him away empty-handed. Then he sent another servant to them; they struck this man on the head and treated him shamefully. He sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.
 
-“He had one left to send, a son, whom he loved. He sent him last of all, saying, ‘They will respect my son.’
+                        “He had one left to send, a son, whom he loved. He sent him last of all, saying, ‘They will respect my son.’
 
-“But the tenants said to one another, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’ So they took him and killed him, and threw him out of the vineyard.
+                        “But the tenants said to one another, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’ So they took him and killed him, and threw him out of the vineyard.
 
-“What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others. Haven’t you read this passage of Scripture:
+                        “What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others. Haven’t you read this passage of Scripture:
 
-“‘The stone the builders rejected
+                        “‘The stone the builders rejected
 
-    has become the cornerstone;
+                            has become the cornerstone;
 
-    the Lord has done this,
+                            the Lord has done this,
 
-    and it is marvelous in our eyes’?”
+                            and it is marvelous in our eyes’?”
 
-Then the chief priests, the teachers of the law and the elders looked for a way to arrest him because they knew he had spoken the parable against them. But they were afraid of the crowd; so they left him and went away.
+                        Then the chief priests, the teachers of the law and the elders looked for a way to arrest him because they knew he had spoken the parable against them. But they were afraid of the crowd; so they left him and went away.
 
         </p>
     </div>
@@ -538,16 +538,16 @@ Then the chief priests, the teachers of the law and the elders looked for a way 
                         <p>( MARK 13:28-33 )
                         “Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. Even so, when you see these things happening, you know that it is near, right at the door. Truly I tell you, this generation will certainly not pass away until all these things have happened. Heaven and earth will pass away, but my words will never pass away.
 
-“But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Be on guard! Be alert! You do not know when that time will come.
+                          “But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father. Be on guard! Be alert! You do not know when that time will come.
                         </p>
                   </div>
     
- <div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
-                          <p>( MARK 13:34-37 )
-It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
+                   <div className={styles.card}>
+                                            <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
+                                            <p>( MARK 13:34-37 )
+                  It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
 
-“Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
+                  “Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
 
                         </p>
               </div>
@@ -561,80 +561,104 @@ It’s like a man going away: He leaves his house and puts his servants in charg
                           <h2 className={styles.chapter}> The Friend at Midnight </h2>
                           <p>( LUKE 11:5-13 )
 
-Then Jesus said to them, “Suppose you have a friend, and you go to him at midnight and say, ‘Friend, lend me three loaves of bread; a friend of mine on a journey has come to me, and I have no food to offer him.’ And suppose the one inside answers, ‘Don’t bother me. The door is already locked, and my children and I are in bed. I can’t get up and give you anything.’ I tell you, even though he will not get up and give you the bread because of friendship, yet because of your shameless audacity he will surely get up and give you as much as you need.
+                  Then Jesus said to them, “Suppose you have a friend, and you go to him at midnight and say, ‘Friend, lend me three loaves of bread; a friend of mine on a journey has come to me, and I have no food to offer him.’ And suppose the one inside answers, ‘Don’t bother me. The door is already locked, and my children and I are in bed. I can’t get up and give you anything.’ I tell you, even though he will not get up and give you the bread because of friendship, yet because of your shameless audacity he will surely get up and give you as much as you need.
 
-“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+                  “So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
 
-“Which of you fathers, if your son asks for a fish, will give him a snake instead? Or if he asks for an egg, will give him a scorpion? If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”
+                  “Which of you fathers, if your son asks for a fish, will give him a snake instead? Or if he asks for an egg, will give him a scorpion? If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”
                         </p>
               </div>
 
- <div className={styles.card}>
-                          <h2 className={styles.chapter}> The Good Samaritan </h2>
-                          <p> ( LUKE 10:29-37 )
-But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”
+             <div className={styles.card}>
+                                      <h2 className={styles.chapter}> The Good Samaritan </h2>
+                                      <p> ( LUKE 10:29-37 )
+            But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”
 
-In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. So too, a Levite, when he came to the place and saw him, passed by on the other side. But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
+            In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. So too, a Levite, when he came to the place and saw him, passed by on the other side. But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
 
-“Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
+            “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”
 
-The expert in the law replied, “The one who had mercy on him.”
+            The expert in the law replied, “The one who had mercy on him.”
 
-Jesus told him, “Go and do likewise.”
+            Jesus told him, “Go and do likewise.”
+                                    </p>
+              </div>
+
+             <div className={styles.card}>
+                                      <h2 className={styles.chapter}> Parable of The Rich Fool</h2>
+                                      <p> LUKE ( 12:13-21 )
+
+            Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.”
+
+            Jesus replied, “Man, who appointed me a judge or an arbiter between you?” Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”
+
+            And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. He thought to himself, ‘What shall I do? I have no place to store my crops.’
+
+            “Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain. And I’ll say to myself, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.”’
+
+            “But God said to him, ‘You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?’
+
+            “This is how it will be with whoever stores up things for themselves but is not rich toward God.”
+
+
                         </p>
               </div>
 
- <div className={styles.card}>
-                          <h2 className={styles.chapter}> Parable of The Rich Fool</h2>
-                          <p> LUKE ( 12:13-21 )
-  
-Someone in the crowd said to him, “Teacher, tell my brother to divide the inheritance with me.”
 
-Jesus replied, “Man, who appointed me a judge or an arbiter between you?” Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”
+              <div className={styles.card}>
+                                        <h2 className={styles.chapter}>Parable of The Barren Fig Tree</h2>
+                                        <p> LUKE ( 13:6-9 )
 
-And he told them this parable: “The ground of a certain rich man yielded an abundant harvest. He thought to himself, ‘What shall I do? I have no place to store my crops.’
+              Then he told this parable: “A man had a fig tree growing in his vineyard, and he went to look for fruit on it but did not find any. So he said to the man who took care of the vineyard, ‘For three years now I’ve been coming to look for fruit on this fig tree and haven’t found any. Cut it down! Why should it use up the soil?’
 
-“Then he said, ‘This is what I’ll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain. And I’ll say to myself, “You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.”’
+              “‘Sir,’ the man replied, ‘leave it alone for one more year, and I’ll dig around it and fertilize it. 9 If it bears fruit next year, fine! If not, then cut it down.’”                        </p>
+                            </div>
+              <div className={styles.card}>
+                                        <h2 className={styles.chapter}>Parable of The Invited Guests -</h2>
+                                        <p>
+              ( LUKE 14:7-14 )
+              When he noticed how the guests picked the places of honor at the table, he told them this parable: “When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited. If so, the host who invited both of you will come and say to you, ‘Give this person your seat.’ Then, humiliated, you will have to take the least important place. But when you are invited, take the lowest place, so that when your host comes, he will say to you, ‘Friend, move up to a better place.’ Then you will be honored in the presence of all the other guests. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
 
-“But God said to him, ‘You fool! This very night your life will be demanded from you. Then who will get what you have prepared for yourself?’
-
-“This is how it will be with whoever stores up things for themselves but is not rich toward God.”
-
-
-                        </p>
-              </div>
-
-
-<div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of The Barren Fig Tree</h2>
-                          <p> LUKE ( 13:6-9 )
-  
-Then he told this parable: “A man had a fig tree growing in his vineyard, and he went to look for fruit on it but did not find any. So he said to the man who took care of the vineyard, ‘For three years now I’ve been coming to look for fruit on this fig tree and haven’t found any. Cut it down! Why should it use up the soil?’
-
-“‘Sir,’ the man replied, ‘leave it alone for one more year, and I’ll dig around it and fertilize it. 9 If it bears fruit next year, fine! If not, then cut it down.’”                        </p>
-              </div>
-<div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of The Invited Guests -</h2>
-                          <p>
-( LUKE 14:7-14 )
-When he noticed how the guests picked the places of honor at the table, he told them this parable: “When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited. If so, the host who invited both of you will come and say to you, ‘Give this person your seat.’ Then, humiliated, you will have to take the least important place. But when you are invited, take the lowest place, so that when your host comes, he will say to you, ‘Friend, move up to a better place.’ Then you will be honored in the presence of all the other guests. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
-
-Then Jesus said to his host, “When you give a luncheon or dinner, do not invite your friends, your brothers or sisters, your relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid. But when you give a banquet, invite the poor, the crippled, the lame, the blind, and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.”
-                    </p>
-              </div>
+              Then Jesus said to his host, “When you give a luncheon or dinner, do not invite your friends, your brothers or sisters, your relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid. But when you give a banquet, invite the poor, the crippled, the lame, the blind, and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.”
+                                  </p>
+                            </div>
 
           
-<div className={styles.card}>
-                          <h2 className={styles.chapter}>Parable of The Lost Coin</h2>
-                                  <p>
-                            ( LUKE  )15:8-10
-“Or suppose a woman has ten silver coins and loses one. 
-Doesn’t she light a lamp, sweep the house and search carefully until she finds it? 
-  And when she finds it, she calls her friends and neighbors together and says, 
-  ‘Rejoice with me; I have found my lost coin.’ In the same way, I tell you, there is rejoicing in 
-  the presence of the angels of God over one sinner who repents.”
-              </p>
-          </div>
+              <div className={styles.card}>
+                                        <h2 className={styles.chapter}>Parable of The Lost Coin</h2>
+                                                <p>
+                                          ( LUKE  )15:8-10
+              “Or suppose a woman has ten silver coins and loses one. 
+              Doesn’t she light a lamp, sweep the house and search carefully until she finds it? 
+                And when she finds it, she calls her friends and neighbors together and says, 
+                ‘Rejoice with me; I have found my lost coin.’ In the same way, I tell you, there is rejoicing in 
+                the presence of the angels of God over one sinner who repents.”
+                            </p>
+                        </div>
+              <div className={styles.card}>
+                                        <h2 className={styles.chapter}>
+                        Parable of The Prodigal Son</h2> 
+              <p>( LUKE 15:11-32 )
+                Jesus continued: “There was a man who had two sons. The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them.
+
+              “Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. After he had spent everything, there was a severe famine in that whole country, and he began to be in need. So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.
+
+              “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. I am no longer worthy to be called your son; make me like one of your hired servants.’ So he got up and went to his father.
+
+              “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.
+
+              “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’
+
+              “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. Bring the fattened calf and kill it. Let’s have a feast and celebrate. For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate.
+
+              “Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. So he called one of the servants and asked him what was going on. ‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’
+
+              “The older brother became angry and refused to go in. So his father went out and pleaded with him. But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’
+
+              “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”
+                 </p>
+              </div>
+
 
         </div>
 
