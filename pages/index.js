@@ -639,9 +639,7 @@ Then he told this parable: “A man had a fig tree growing in his vineyard, and 
                           <p className={styles.fund}>Help Fund This Bible</p>  
                       </a>
         </p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/UCgqtyfPIS8" title="YouTube video player" frameborder="6" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                  
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/m1AY32BuKdo" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>        </div>
-      
+
       </main>
 
     
