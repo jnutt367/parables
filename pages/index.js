@@ -613,10 +613,15 @@ Then he told this parable: “A man had a fig tree growing in his vineyard, and 
 
 “‘Sir,’ the man replied, ‘leave it alone for one more year, and I’ll dig around it and fertilize it. 9 If it bears fruit next year, fine! If not, then cut it down.’”                        </p>
               </div>
+<div className={styles.card}>
+                          <h2 className={styles.chapter}>Parable of The Invited Guests -</h2>
+                          <p>
+( LUKE 14:7-14 )
+When he noticed how the guests picked the places of honor at the table, he told them this parable: “When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited. If so, the host who invited both of you will come and say to you, ‘Give this person your seat.’ Then, humiliated, you will have to take the least important place. But when you are invited, take the lowest place, so that when your host comes, he will say to you, ‘Friend, move up to a better place.’ Then you will be honored in the presence of all the other guests. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
 
-
-
-
+Then Jesus said to his host, “When you give a luncheon or dinner, do not invite your friends, your brothers or sisters, your relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid. But when you give a banquet, invite the poor, the crippled, the lame, the blind, and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.”
+                    </p>
+              </div>
 
         </div>
 
