@@ -676,11 +676,31 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                             “He said to him, ‘If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.’”
                                   </p>
                                 </div>
+                            <div className={styles.card}>
+                                        <h2 className={styles.chapter}>The Persistent Widow
+                                            <p>
+                                          ( LUKE 18:1-8 )
+                                        Then Jesus told his disciples a parable to show them that they should always pray and not give up. He said: “In a certain town there was a judge who neither feared God nor cared what people thought. And there was a widow in that town who kept coming to him with the plea, ‘Grant me justice against my adversary.’
 
+                                        “For some time he refused. But finally he said to himself, ‘Even though I don’t fear God or care what people think, yet because this widow keeps bothering me, I will see that she gets justice, so that she won’t eventually come and attack me!’”
 
+                                        And the Lord said, “Listen to what the unjust judge says. And will not God bring about justice for his chosen ones, who cry out to him day and night? Will he keep putting them off? I tell you, he will see that they get justice, and quickly. However, when the Son of Man comes, will he find faith on the earth?”
+                                            </p>
+                              </div>
+                                        
+                                        
+                                        <div className={styles.card}>
+                                        <h2 className={styles.chapter}> The Pharisee and The Tax Collector</h2>
+                                            <p>
+                                          ( LUKE 18:9-14 )
+                                        To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. I fast twice a week and give a tenth of all I get.’
 
+                                        “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’
 
-
+                                        “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
+                                            </p>
+                                       </div>
+                          
 
         </div>
 
