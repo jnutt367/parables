@@ -639,7 +639,7 @@ Then he told this parable: “A man had a fig tree growing in his vineyard, and 
                           <p className={styles.fund}>Help Fund This Bible</p>  
                       </a>
         </p>
-
+</div>
       </main>
 
     
