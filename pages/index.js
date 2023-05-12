@@ -715,12 +715,12 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                               />
            </div>
 
-        <p className={styles.description}> 
-        <code className={styles.publisher}>
+        <p className={styles.footer}> 
+        <code className={styles.servant}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
  <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.fund}>Help Fund This Bible</p>  
+                          <p className={styles.giving}>Help Fund This Bible</p>  
                       </a>
         </p>
 </div>
