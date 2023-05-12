@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/jesus-bread.gif"
+                                src="/genesis-chapt1.gif"
                                 alt="PERSON PRAYS 3D IMAGE"
                                 height={900}
                                 width={2000}
