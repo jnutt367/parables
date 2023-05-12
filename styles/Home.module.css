@@ -424,7 +424,11 @@
     color: black;
     text-align: center;
 }
-
+.footer {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+}
 @media (max-width: 600px) {
     .grid {
         width: 100%;
