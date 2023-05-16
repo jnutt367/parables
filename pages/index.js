@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/wordle-god-is-light-4-random-word-wild.png"
+                                src="/jesus-wordle.jpeg"
                                 alt="PERSON PRAYS 3D IMAGE"
                                 height={900}
                                 width={2000}
