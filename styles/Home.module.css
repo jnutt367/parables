@@ -8,7 +8,6 @@
 
 .container {
   background-color: black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -63,7 +62,6 @@
 */
 .main {
   background-color:  black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 2000px;
@@ -96,7 +94,6 @@
     font-weight: 700;
 }
 .image {
-    background-image: url(/monophy.gif);
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
@@ -113,7 +110,6 @@
     font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .donate {
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   background-color:white;
   opacity: 0.8;
   color: black;
@@ -208,7 +204,6 @@
   color: white;
   position: sticky; 
   background-color: black;
-  background-image:url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
