@@ -705,15 +705,6 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
         </div>
 
 
-<div  className={styles.image}>
-       <Image 
-                                src="/workshop.png"
-                                alt="me in the workshop reading the bible"
-                                 height={900}
-                                width={2000}
-                                priority
-                              />
-           </div>
 
         <p className={styles.footer}> 
         <code className={styles.servant}>
@@ -724,6 +715,16 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                       </a>
         </p>
 </div>
+<div  className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="me in the workshop reading the bible"
+                                 height={900}
+                                width={2000}
+                                priority
+                              />
+           </div>
+
       </main>
 
     
