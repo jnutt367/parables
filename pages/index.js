@@ -33,7 +33,7 @@ export default function Home() {
            </div>
 <p className={styles.parables}>"Through speaking in parables, Jesus grants understanding to those who are seeking after Him "</p>
 <div  className={styles.image}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/N2VMmhClP-E" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>         
 
 
