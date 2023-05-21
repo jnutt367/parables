@@ -290,7 +290,7 @@
 }
 
 .grid {
-    background-color: black;
+    background-color: #ED7014;
     color: white;
     display: flex;
     align-items: center;
@@ -322,7 +322,7 @@
 }
 
 .card {
-    background-image: url(/19-wordle-psalms.jpeg);
+    background-image: url(/parables_word_cloud.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
