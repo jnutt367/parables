@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The WORD of GOD: "Risen", Parables</title>
-        <meta name="description" content="The WORD of GOD: Risen" />
+        <title>Parables</title>
+        <meta name="description" content="Collection of Jesus' Parables" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -25,14 +25,14 @@ export default function Home() {
          <div className={styles.image}>
        <Image 
                                 src="/in-christ.jpeg"
-                                alt="PERSON PRAYS 3D IMAGE"
+                                alt="in Christ wordle"
                                 height={900}
                                 width={2000}
                                 priority
                               />
            </div>
 <p className={styles.parables}>"Through speaking in parables, Jesus grants understanding to those who are seeking after Him "</p>
-<div className={styles.image}>
+<div className={styles.iframe}>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 </div>         
 
@@ -68,9 +68,11 @@ export default function Home() {
                               />
        </a>           
         </div>
-<div className={styles.book}>
-    <h2>Parables in Matthew</h2>
-</div>  
+
+
+
+
+
 <div className={styles.grid}>
     
           <div className={styles.card}>
@@ -438,16 +440,15 @@ The Budding Fig Tree</h2>
         “‘So take the bag of gold from him and give it to the one who has ten bags. For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
    </p>
    </div>
-</div>
-   <div className={styles.book}>
-    <h2>Parables in Mark</h2>
-</div>  
-<div className={styles.grid}>
+
+  
+
     
           <div className={styles.card}>
             <h2 className={styles.chapter}>Parable of The Lamp &darr;</h2>
             <p> ( MARK 4:21-25 )
-He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand? For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open. If anyone has ears to hear, let them hear.” “Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more. Whoever has will be given more; whoever does not have, even what they have will be taken from them.”  </p>
+He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand? For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open. If anyone has ears to hear, let them hear.” “Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more. Whoever has will be given more; whoever does not have, even what they have will be taken from them.”  
+                  </p>
           </div>
 
          <div className={styles.card}>
@@ -552,11 +553,8 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                         </p>
               </div>
 
-  </div>
-          <div className={styles.book}>
-            <h2>Parables in Luke</h2>
-        </div>  
-        <div className={styles.grid}>
+  
+       
                <div className={styles.card}>
                           <h2 className={styles.chapter}> The Friend at Midnight </h2>
                           <p>( LUKE 11:5-13 )
