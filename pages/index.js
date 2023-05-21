@@ -22,7 +22,7 @@ export default function Home() {
         <h1 className={styles.title}>
        PARABLES
         </h1>
-         <div  className={styles.image}>
+         <div className={styles.image}>
        <Image 
                                 src="/in-christ.jpeg"
                                 alt="PERSON PRAYS 3D IMAGE"
@@ -32,9 +32,9 @@ export default function Home() {
                               />
            </div>
 <p className={styles.parables}>"Through speaking in parables, Jesus grants understanding to those who are seeking after Him "</p>
-<div  className={styles.image}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          </div>         
+<div className={styles.image}>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+</div>         
 
 
               <div className={styles.nav}>               
