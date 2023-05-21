@@ -19,7 +19,7 @@
 
 
 .holy {
-  backgroud-color: silver;
+  backgroud-color: black;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -63,10 +63,12 @@
 .main {
   background-color:  black;
   min-height: 100vh;  
-  padding: 4rem 0;  
-  background-size: cover;
+  padding: 4rem 0;
   position:relative;
   top: 10px;
+}
+.iframe {
+       width: 100%;
 }
 .fund {
    text-align: center;
@@ -84,7 +86,6 @@
     text-align: center;
     color: white;
     position: relative;
-    padding: 25px;
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
@@ -93,6 +94,8 @@
     font-weight: 200;
 }
 .image {
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
+    text-align: center;
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
@@ -100,6 +103,8 @@
     padding-right: 100px;
     display: grid;
     place-items: center;
+    align-items: center;
+    justify-content: center;
     max-height: 900px; 
     alig-items: center;
     opacity: 1;
@@ -135,7 +140,6 @@
     align-items: center;
 }
 .hero {
-  color: white;
   max-width: 1350px;
   position:relative;
   top: -105px;
@@ -231,11 +235,10 @@
 }
 
 .description {
-    display: grid;
-    text-align: center;
     text-shadow: 1px 1px black;
     color:white;
     padding: 2rem;
+    padding-right: 3rem;
     margin: 0rem 0;
     line-height: 1.5;
     font-size: 1rem;
@@ -287,7 +290,7 @@
 }
 
 .grid {
-    background-color: #ED7014;
+    background-color: black;
     color: white;
     display: flex;
     align-items: center;
@@ -319,7 +322,7 @@
 }
 
 .card {
-    background-image: url(/parables_word_cloud.png);
+    background-image: url(/19-wordle-psalms.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -347,6 +350,7 @@
 .chapter {
     background-color: black;
     color: white;
+    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
@@ -413,14 +417,10 @@
 
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
-    color: black;
+    color: white;
     text-align: center;
 }
-.footer {
-        display: grid;
-        align-items: center;
-        justify-content: center;
-}
+
 @media (max-width: 600px) {
     .grid {
         width: 100%;
@@ -453,13 +453,14 @@
         margin-left: 100px; 
         margin-right: 100px;      
     }
-    .parables {
-        padding-right: 200px;
-        padding-left: 200px;
-    }
+   
         .grid {
         grid-template-columns: 200px 200px 200px;
         
+    }
+    .iframe {
+        padding-left: 200px;
+        padding-right: 200px;
     }
 }
    
