@@ -352,7 +352,7 @@ Jesus said to them, “Have you never read in the Scriptures:
 
 the Lord has done this,
 
-    and it is marvelous in our eyes’[a]?
+    and it is marvelous in our eyes’?
 
 “Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit. 44 Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed.”
 
@@ -698,7 +698,7 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                                         “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”
                                             </p>
                                        </div>
-                          
+                          </div>
 
         </div>
 
@@ -712,7 +712,7 @@ He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Inst
                           <p className={styles.giving}>Help Fund This Bible</p>  
                       </a>
         </p>
-</div>
+
 <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
