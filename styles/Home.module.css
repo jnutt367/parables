@@ -325,7 +325,6 @@
     background-image: url(/parables_word_cloud.png);
     background-repeat: no-repeat;
     background-position: center;
-    
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
@@ -343,7 +342,7 @@
     max-width: 400px;
     background-color: black;
     border-radius: 15px 50px 30px;
-    overflow: scroll;
+    overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 2s ease;
