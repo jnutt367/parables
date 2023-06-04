@@ -268,8 +268,7 @@
 }
 
 .nav {
-    background-color: black;
-    border: 2 px solid gold;
+    background-color: #a67c00;
     opacity: 1;
     padding: 5px;
     display: flex;
