@@ -79,9 +79,9 @@ export default function Home() {
           <div className={styles.card}>
             <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
             <p>( MATTHEW 13:10 )
-            10 The disciples came to him and asked, “Why do you speak to the people in parables?”
+           10 The disciples came to him and asked, “Why do you speak to the people in parables?”
 
-11 He replied, “Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
+11 He replied,  <span className={styles.span}>Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
 
 “Though seeing, they do not see;
     though hearing, they do not hear or understand.
@@ -99,7 +99,8 @@ Otherwise they might see with their eyes,
 and turn, and I would heal them.’[a]
 
 16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.   </p>
-          </div>
+  </span>
+  </div>
 
           <div className={styles.card}>
               <h2 className={styles.chapter}> The seed & the sower &darr;</h2>
