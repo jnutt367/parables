@@ -46,7 +46,11 @@
   justify-items: center;
   tex-align: left;
 }
-
+.red:active,
+.red:focus,
+.red:hover {
+    color: ;
+}
 /*
 .main {
     background-color: black;
@@ -257,14 +261,10 @@
     cursor:pointer;
 }
 
-.span {
-    font-size: xx-large;
-    color: orange;
-    text-shadow: 1px 1px black;
-}
+
 
 .span:hover {
-    color: white;
+    color: #880808;
 }
 
 .nav {
