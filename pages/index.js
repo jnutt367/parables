@@ -196,7 +196,7 @@ He told them another parable: “The kingdom of heaven is like a mustard seed, w
               <h2 className={styles.chapter}>Hidden Treasure &darr;</h2>
             <p>
                ( MATTHEW 13:44 )
-“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
+<span className={styles.red}>“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.</span>
                 </p>
           </div>
 
