@@ -268,7 +268,7 @@
 }
 
 .nav {
-    background-color: #a67c00;
+    background-color: #9f00ff;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -345,7 +345,7 @@
     overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;
-    transition: color 0.15s ease, border-color 2s ease;
+    transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
@@ -372,7 +372,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #ffa500;
+    border: 6px solid #9f00ff;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
