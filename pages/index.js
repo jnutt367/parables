@@ -98,8 +98,9 @@ Otherwise they might see with their eyes,
     understand with their hearts
 and turn, and I would heal them.’[a]
 
-16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.   </p>
-  </span>
+16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it. </span>
+  </p>
+ 
   </div>
 
           <div className={styles.card}>
