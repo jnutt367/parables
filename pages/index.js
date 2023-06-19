@@ -210,7 +210,7 @@ Jesus told them another parable: <span className={styles.span}>"The kingdom of h
                ( MATTHEW 13:31-32 )
 He told them another parable: <span className={styles.span}>"The kingdom of heaven is like a mustard seed, which a man took and planted in his field. 
   Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches.”
-  <span>
+  </span>
                 </p>
           </div>
 
