@@ -49,9 +49,9 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://gofund.me/a2b590af">
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image className={styles.arrow}
-                                src="/funding.png"
+                                src="/youtube-logo-png-hd-21.png"
                                 alt="funding-icon"
                                 height={75}
                                 width={75}
@@ -98,7 +98,8 @@ Otherwise they might see with their eyes,
     understand with their hearts
 and turn, and I would heal them.’[a]
 
-16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it. </span>
+16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
+  </span>
   </p>
  
   </div>
@@ -106,11 +107,15 @@ and turn, and I would heal them.’[a]
           <div className={styles.card}>
               <h2 className={styles.chapter}> The seed & the sower &darr;</h2>
             <p>The Parable of the Sower ( MATTHEW 13:1-23 )
-13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying: “A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants. 8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
+13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying:
+  <span className={styles.span}>A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, 
+    where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 
+    7 Other seed fell among thorns, which grew up and choked the plants. 
+    8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”</span>
 
 10 The disciples came to him and asked, “Why do you speak to the people in parables?”
 
-11 He replied, “Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
+11 He replied, <span className={styles.span}>Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
 
 “Though seeing, they do not see;
     though hearing, they do not hear or understand.
@@ -129,15 +134,18 @@ and turn, and I would heal them.’[a]
 
 16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
 
-18 “Listen then to what the parable of the sower means: 19 When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. 20 The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. 21 But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. 22 The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed falling on good soil refers to someone who hears the word and understands it. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown.”
-
+18 “Listen then to what the parable of the sower means:
+19 When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. 20 The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. 21 But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. 22 The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed falling on good soil refers to someone who hears the word and understands it. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown.”
+  </span>
 </p>
           </div>
 
           <div className={styles.card}>
                <h2 className={styles.chapter}> Parable of the Lamp - &darr;</h2>
             <p> ( MATTHEW 5:14-16 )
-“You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.</p>
+<span className={styles.span}>"You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+  </span>
+  </p>
           </div>
 
 
