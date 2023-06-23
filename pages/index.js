@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
          <div className={styles.image}>
        <Image 
-                                src="/in-christ.jpeg"
+                                src="/risen_2.png"
                                 alt="in Christ wordle"
                                 height={900}
                                 width={2000}
