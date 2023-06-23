@@ -33,12 +33,7 @@ export default function Home() {
            </div>
 <p className={styles.parables}>Speaking in parables, Jesus grants understanding to those who are seeking after Him revealing 
   "the knowledge of the secrets of the kingdom of heaven"</p>
-<div className={styles.iframe}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-</div>         
-
-
-              <div className={styles.nav}>               
+            <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
          <Image className={styles.arrow}
                                 src="/chevron-left.svg"
@@ -69,7 +64,12 @@ export default function Home() {
                               />
        </a>           
         </div>
+<div className={styles.iframe}>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+</div>         
 
+
+      
 
 
 
