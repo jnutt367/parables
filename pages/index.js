@@ -33,7 +33,7 @@ export default function Home() {
            </div>
 <p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to His disciples.</p>
             <div className={styles.nav}>               
-       <a href="https://matthew-coral.vercel.app/">
+       <a href="https://mypsalms.vercel.app/">
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
@@ -43,7 +43,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+         <a href="https://www.facebook.com/DiscipleofChristJasonNutt">
               <Image className={styles.arrow}
                                 src="/upward_pointing.webp"
                                 alt="funding-icon"
@@ -53,7 +53,7 @@ export default function Home() {
                               /> 
        </a>
            
-        <a href="https://luke-three.vercel.app/">
+        <a href="https://myproverbs.vercel.app/">
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
