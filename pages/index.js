@@ -43,7 +43,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://www.facebook.com/DiscipleofChristJasonNutt">
+         <a href="https://the-word-of-god.vercel.app/">
               <Image className={styles.arrow}
                                 src="/upward_pointing.webp"
                                 alt="funding-icon"
