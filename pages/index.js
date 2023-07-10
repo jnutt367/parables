@@ -31,7 +31,7 @@ export default function Home() {
                                 priority
                               />
            </div>
-<p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to His disciples.</p>
+<p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those of us with ears to hear... disciples.</p>
             <div className={styles.nav}>               
        <a href="https://mypsalms.vercel.app/">
          <Image className={styles.arrow}
