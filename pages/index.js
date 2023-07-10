@@ -64,7 +64,7 @@ export default function Home() {
        </a>           
         </div>
 <div className={styles.iframe}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XX-aAg4_U2Q?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 </div>         
 
 
