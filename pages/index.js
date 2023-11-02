@@ -23,13 +23,7 @@ export default function Home() {
        PARABLES
         </h1>
          <div className={styles.image}>
-       <Image 
-                                src="/parables.png"
-                                alt="in Christ wordle"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/N2VMmhClP-E?si=ZfUIUf9Ww5kStSuF?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>
 <p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those of us with ears to hear... disciples.</p>
             <div className={styles.nav}>               
