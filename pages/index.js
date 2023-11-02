@@ -28,7 +28,8 @@ export default function Home() {
 <p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those of us with ears to hear... disciples.</p>
             <div className={styles.nav}>               
        <a href="https://mypsalms.vercel.app/">
-         <Image className={styles.arrow}
+     <p>Previous Page</p>
+    <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
                                 height={75}
@@ -38,6 +39,7 @@ export default function Home() {
        </a>
 
          <a href="https://cash.app/$JNutt367">
+                                  <p>For Giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donate with cashapp"
@@ -48,6 +50,7 @@ export default function Home() {
        </a>
            
         <a href="https://myproverbs.vercel.app/">
+ <p>Next Page</p>                                  
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
