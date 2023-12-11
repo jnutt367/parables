@@ -28,34 +28,34 @@ export default function Home() {
 <p className={styles.parables}>Through parables, Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those of us with ears to hear... disciples.</p>
             <div className={styles.nav}>               
        <a href="https://mypsalms.vercel.app/">
-     <p>Previous Page</p>
+     <p>Prev</p>
     <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://cash.app/$JNutt367">
-                                  <p>For Giving</p>
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donate with cashapp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
            
         <a href="https://myproverbs.vercel.app/">
- <p>Next Page</p>                                  
+ <p>Next</p>                                  
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>           
