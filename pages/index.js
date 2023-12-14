@@ -27,7 +27,7 @@ export default function Home() {
        PARABLES
         </h1>
          <div className={styles.iframe1}>
-      <iframe width="100%" height="300" src="https://www.youtube.com/embed/N2VMmhClP-E?si=ZfUIUf9Ww5kStSuF?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/N2VMmhClP-E?si=ZfUIUf9Ww5kStSuF&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>
 <p className={styles.parables}> Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those with ears to hear</p>
             <div className={styles.nav}>               
