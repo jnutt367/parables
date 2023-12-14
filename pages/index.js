@@ -77,7 +77,7 @@ export default function Home() {
 <div className={styles.grid}>
     
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Jesus explains parables &darr;</h2>
+            <h2 className={styles.chapter}>Jesus explains parables</h2>
             <p>( MATTHEW 13:10 )
            10 The disciples came to him and asked, “Why do you speak to the people in parables?”
 
@@ -105,7 +105,7 @@ and turn, and I would heal them.’[a]
   </div>
 
           <div className={styles.card}>
-              <h2 className={styles.chapter}> The seed & the sower &darr;</h2>
+              <h2 className={styles.chapter}> The seed & the sower</h2>
             <p>The Parable of the Sower ( MATTHEW 13:1-23 )
 13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying:
   <span className={styles.span}>A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, 
@@ -141,7 +141,7 @@ and turn, and I would heal them.’[a]
           </div>
 
           <div className={styles.card}>
-               <h2 className={styles.chapter}> Parable of the Lamp - &darr;</h2>
+               <h2 className={styles.chapter}> Parable of the Lamp</h2>
             <p> ( MATTHEW 5:14-16 )
 <span className={styles.span}>"You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
   </span>
@@ -150,14 +150,14 @@ and turn, and I would heal them.’[a]
 
 
           <div className={styles.card}>
-              <h2 className={styles.chapter}> the Speck and The Log  &darr;</h2>
+              <h2 className={styles.chapter}> the Speck and The Log </h2>
             <p>( MATTHEW 7:1-5 )
  <span className={styles.span}>"Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you. “Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
    </span>
    </p>
           </div>
       <div className={styles.card}>
-              <h2 className={styles.chapter}>  New Cloth on Old Garment &darr;</h2>
+              <h2 className={styles.chapter}>  New Cloth on Old Garment</h2>
             <p>
                 ( MATTHEW 9:16-17 )
  <span className={styles.span}>“No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse. Neither do people pour new wine into old wineskins. If they do, the skins will burst; the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.”
@@ -167,7 +167,7 @@ and turn, and I would heal them.’[a]
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>The Divided Kingdom &darr;</h2>
+              <h2 className={styles.chapter}>The Divided Kingdom</h2>
             <p>
                 ( MATTHEW 12:24-30 )
 But when the Pharisees heard this, they said, “It is only by Beelzebul, the prince of demons, that this fellow drives out demons.” Jesus knew their thoughts and said to them,<span className={styles.span}>
@@ -184,7 +184,7 @@ But when the Pharisees heard this, they said, “It is only by Beelzebul, the pr
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>The Weeds Among the Wheat &darr;</h2>
+              <h2 className={styles.chapter}>The Weeds Among the Wheat</h2>
             <p>
                 ( MATTHEW 13:24-30 )
 Jesus told them another parable: <span className={styles.span}>"The kingdom of heaven is like a man who sowed good seed in his field.
@@ -205,7 +205,7 @@ Jesus told them another parable: <span className={styles.span}>"The kingdom of h
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>The Mustard Seed &darr;</h2>
+              <h2 className={styles.chapter}>The Mustard Seed</h2>
             <p>
                ( MATTHEW 13:31-32 )
 He told them another parable: <span className={styles.span}>"The kingdom of heaven is like a mustard seed, which a man took and planted in his field. 
@@ -218,7 +218,7 @@ He told them another parable: <span className={styles.span}>"The kingdom of heav
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>Hidden Treasure &darr;</h2>
+              <h2 className={styles.chapter}>Hidden Treasure</h2>
             <p>
                ( MATTHEW 13:44 )
 <span className={styles.span}>“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field."
@@ -231,7 +231,7 @@ He told them another parable: <span className={styles.span}>"The kingdom of heav
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>Pearl of Great Price &darr;</h2>
+              <h2 className={styles.chapter}>Pearl of Great Price</h2>
             <p>
                 ( MATTHEW 13:45-46 )
 <span className={styles.span}>"Again, the kingdom of heaven is like a merchant looking for fine pearls. When he found one of great value, he went away and sold everything he had and bought it.
@@ -243,7 +243,7 @@ He told them another parable: <span className={styles.span}>"The kingdom of heav
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}>The Heart of Man &darr;</h2>
+              <h2 className={styles.chapter}>The Heart of Man</h2>
             <p>
                 MATTHEW 15:10-20
 Jesus called the crowd to him and said,<span className={styles.span}>“Listen and understand. What goes into someone’s mouth does not defile them, 
@@ -269,7 +269,7 @@ Peter said, “Explain the parable to us.”
 
 
  <div className={styles.card}>
-              <h2 className={styles.chapter}> Parable of The Leaven &darr;</h2>
+              <h2 className={styles.chapter}> Parable of The Leaven</h2>
             <p>
                 ( MATTHEW 13:33-34 )
 He told them still another parable: “The kingdom of heaven is like yeast that a woman took and mixed into about sixty pounds[a] of flour until it worked all through the dough.” Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable.</p>
@@ -285,7 +285,7 @@ Parable of The Net &darr;</h2>
 
 
 <div className={styles.card}>
-   <h2 className={styles.chapter}> Parable of The Lost Sheep &darr;</h2>
+   <h2 className={styles.chapter}> Parable of The Lost Sheep</h2>
  <p>( MATTHEW  18:10-14 )
 “See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
 
@@ -304,8 +304,9 @@ Parable of The Net &darr;</h2>
 
 
 <div className={styles.card}>
-   <h2 className={styles.chapter}>Parable of The Unforgiving Servant &darr;</h2>
+   <h2 className={styles.chapter}>Parable of The Unforgiving Servant</h2>
  <p>( MATTHEW 18:23-35 )
+<span className={styles.span}>  
 “Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants. As he began the settlement, a man who owed him ten thousand bags of gold was brought to him. Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt.
 
 “At this the servant fell on his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’ The servant’s master took pity on him, canceled the debt and let him go.
@@ -319,15 +320,18 @@ Parable of The Net &darr;</h2>
 “Then the master called the servant in. ‘You wicked servant,’ he said, ‘I canceled all that debt of yours because you begged me to. Shouldn’t you have had mercy on your fellow servant just as I had on you?’ In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.
 
 “This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”
-
+  </span>
  
   </p>
   </div>
 
 <div className={styles.card}>
-   <h2 className={styles.chapter}>Laborers in the Vineyard &darr;</h2>
+   <h2 className={styles.chapter}>Laborers in the Vineyard</h2>
  <p>( MATTHEW 20:1-16 )
-“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
+
+
+  <span className={styles.span}>
+    “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
 
 “About nine in the morning he went out and saw others standing in the marketplace doing nothing. He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’ So they went.
 
@@ -344,15 +348,17 @@ Parable of The Net &darr;</h2>
 “But he answered one of them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius? Take your pay and go. I want to give the one who was hired last the same as I gave you. Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’
 
 “So the last will be first, and the first will be last.”
-
+  </span>
 
   </p>
   </div>
 
 
 <div className={styles.card}>
-   <h2 className={styles.chapter}>Parable of The Two Sons &darr;</h2>
+   <h2 className={styles.chapter}>Parable of The Two Sons</h2>
   <p>( MATTHEW 21:28-32 )
+
+<span className={styles.span}>
 “What do you think? There was a man who had two sons. He went to the first and said, ‘Son, go and work today in the vineyard.’
 
 “‘I will not,’ he answered, but later he changed his mind and went.
@@ -360,10 +366,16 @@ Parable of The Net &darr;</h2>
 “Then the father went to the other son and said the same thing. He answered, ‘I will, sir,’ but he did not go.
 
 “Which of the two did what his father wanted?”
-
+  </span>
 “The first,” they answered.
 
-Jesus said to them, “Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. 32 For John came to you to show you the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him.</p>
+Jesus said to them,
+  <span className={styles.span}>
+  
+  “Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. 32 For John came to you to show you the way of righteousness, 
+  and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him.
+  </span>
+  </p>
 </div>
 
 <div className={styles.card}>
