@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, #006600, #C7E0D4);  
+  background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
   width: 100%;
   display: grid;
   align-items: center;
@@ -307,7 +307,7 @@
 
 .nav {
     background-color: gold;
-    background-image: linear-gradient(to bottom right, #006600, #C7E0D4);  
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -321,7 +321,7 @@
 
 .nav2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #006600, #C7E0D4);     
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);     
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -359,7 +359,7 @@
 
 .grid {
     background-color: white;
-    background-image: linear-gradient(to bottom right, #006600, #C7E0D4);  
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
     color: black;
     display: flex;
     align-items: center;
@@ -371,7 +371,7 @@
 
 .grid2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #000435, #87CEEB);
+    background-image: linear-gradient(to bottom right, #088F8F, #87CEEB);
     color: white;
     display: flex;
     align-items: center;
@@ -461,7 +461,7 @@
 }
 .chapter {
     background-color: black;
-    background-image: linear-gradient(to bottom right, #006600, #C7E0D4);    
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -479,7 +479,7 @@
 .chapter2 {
 
     background-color: #37ADA2;
-     background-image: linear-gradient(to bottom right, #006600, #C7E0D4);    
+     background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -645,7 +645,7 @@
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
-    background-image: linear-gradient(to bottom right, #C7E0D4, #006600);    
+    background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);    
     opacity:0.7;  
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
