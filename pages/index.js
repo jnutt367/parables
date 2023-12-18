@@ -494,7 +494,7 @@ The Budding Fig Tree</h2>
 “But he replied, ‘Truly I tell you, I don’t know you.’
 
 “Therefore keep watch, because you do not know the day or the hour."
-  <span>
+  </span>
    </p>
    </div>
    
