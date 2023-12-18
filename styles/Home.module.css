@@ -20,22 +20,20 @@
     padding: 10px;
     position: relative;
     animation-name: iframe1;
-    animation-duration: 1s;  
+    animation-duration: 3s;  
     animation-iteration-count: 1;
     animation-timing-function: ease-out;  
 }
 
 @keyframes iframe1 {
-  0%  {opacity:0; left: -500px;}  
-  90% {opacity: 0.3;}
-  100% {opacity: 1; left: 0px}  
+  0%  {opacity:0; left: -1000px;}  
+  100% {opacity: 1; left: 0px;}  
 }
-
 
 .holy {
   backgroud-color: transparent;
   color: white;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
   top: 12px;
@@ -51,7 +49,7 @@
   top: -37px;
   z-index: 10;
   margin-top: 0;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+ font-family: Rubik Doodle Shadow, Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
   font-size: 52px;
   padding-left: 5px;
@@ -102,6 +100,8 @@
   90% {opacity: 0.3;}
   100% {opacity: 1; left: 0px}  
 }
+
+
 .fund {
    text-align: center;
     color: black;
@@ -110,22 +110,23 @@
     padding-left: 20px;
     margin-top: 25px;
     top: 5px;
-    font-family:"Times New Roman", Times, serif;
+    font-family: Rubik Doodle Shadow, "Times New Roman", Times, serif;
     font-weight: 900;
 }
 .parables {
     display: grid;
     text-align: center;
-    color: black;
+    color: gold;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: Nanum Brush Script, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
-   animation-name: parables;
+    animation-name: parables;
     animation-duration: 2s;  
     animation-iteration-count: 1;
     animation-timing-function: ease-in-out;  
@@ -191,7 +192,8 @@
     border-radius: 50%;
     height: 25px;
     width: 25px;
-}
+    font-family: Lato;
+        }
 .footer a {
     display: flex;
     justify-content: center;
@@ -207,7 +209,7 @@
     list-style: none;
     font-size: xx-large;
     padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-family: sans-serif, "Times New Roman", Times, serif;
 }
 
 .donateButton {
@@ -255,7 +257,7 @@
   z-index: 2;
   top: -45px;
   margin-top: -120px;
-  font-family: Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
 
@@ -265,7 +267,7 @@
   position: relative;
   top: 10px;
   margin-top: 0;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+   font-family: sans-serif, "Times New Roman", Times, serif;
   font-size: 14px;
   margin-bottom: 0.5rem;
 }
@@ -285,6 +287,7 @@
     line-height: 1.5;
     font-size: 1rem;
     max-width: 60rem;
+    font-family: sans-serif, "Times New Roman", Times, serif;
 }
 
 
@@ -307,7 +310,7 @@
 
 .nav {
     background-color: gold;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -317,11 +320,12 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
+    font-family: Nanum Brush Script, sans-serif;
 }
 
 .nav2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);     
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
     color: gold;
     opacity: 1;
     padding: 5px;
@@ -329,6 +333,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
+    font-family: Nanum Brush Script, sans-serif;
 }
 
 .nav2 a:hover {
@@ -359,7 +364,7 @@
 
 .grid {
     background-color: white;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+   background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
     color: black;
     display: flex;
     align-items: center;
@@ -371,7 +376,7 @@
 
 .grid2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #088F8F, #87CEEB);
+    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
     color: white;
     display: flex;
     align-items: center;
@@ -390,7 +395,7 @@
     color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .h2:hover {
@@ -399,7 +404,7 @@
     text-decoration: dashed;
     background-color: black;
     opacity: 0.85;
-    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
@@ -427,7 +432,7 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 0.7s ease;
-    font-family: monospace;
+    font-family: sans-serif, "Times New Roman", Times, serif;
     box-shadow: lightblue 0px 5px 15px;
 }
 
@@ -456,12 +461,12 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 0.7s ease;
-    font-family: monospace;
+   font-family: sans, sans-serif, "Times New Roman", Times, serif;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
     background-color: black;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
+   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -473,13 +478,13 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .chapter2 {
 
     background-color: #37ADA2;
-     background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
+   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -492,7 +497,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .card:hover,
@@ -508,13 +513,13 @@
     cursor: all-scroll;
     background-color: white;
     overflow: scroll;
-    font-family: monospace;
+     font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card h2:hover {
@@ -524,9 +529,9 @@
 .card p {
     margin: 0;
     padding: 1.5rem;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     line-height: 1.5;
-    font-family: monospace;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card p:hover {
@@ -550,14 +555,14 @@
     background-size: cover;
     cursor: all-scroll;
     overflow: scroll;
-    font-family: monospace;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 
 .card2 h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card2 h2:hover {
@@ -567,9 +572,9 @@
 .card2 p {
     margin: 0;
     padding: 1.5rem;
-    font-size: 1.25rem;
+    font-size: 1.75rem;
     line-height: 1.5;
-    font-family: monospace;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card2 p:hover {
@@ -592,7 +597,7 @@
 }
 
 .publisher {
-    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+     font-family: sans-serif, "Times New Roman", Times, serif;
     color: white;
     text-align: center;
 }
@@ -634,7 +639,7 @@
   .parables {
     display: grid;
     text-align: center;
-    color: black;
+    color: gold;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
@@ -645,9 +650,9 @@
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
-    background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);    
+   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
     opacity:0.7;  
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
   }
