@@ -34,8 +34,7 @@ export default function Home() {
        PARABLES
         </h1>
          <div className={styles.iframe1}>
-                 <iframe width="100%" height="300" src="https://www.youtube.com/embed/zRC8COfdzTY?si=AUjoxJHhJnVVFbUh&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            
+               <iframe width="100%" height="300" src="https://www.youtube.com/embed/JIK4MjrpAwE?si=Aurm-n0pfXWQsfVx&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
 <p className={styles.parables}> So was fulfilled... “I will open my mouth in parables,
     I will utter things hidden since the creation of the world.”
