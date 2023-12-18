@@ -8,11 +8,18 @@ export default function Home() {
       <Head>
         <title>Parables</title>
         <meta name="description" content="Collection of Jesus' Parables" />
-        <link rel="icon" href="/favicon.ico" />
-  <link
-          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
+      
+   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
+              rel="stylesheet" 
+                />
+            <link rel="icon" href="/favicon.ico" />
+<link
+          href="https://fonts.googleapis.com/css2?family=Roboto:wght@400..700&display=swap"
           rel="stylesheet"
-        />           
+        />    
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+            rel="stylesheet"  
+              />                        
       </Head>
 
       <main className={styles.main}>
