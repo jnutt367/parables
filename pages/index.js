@@ -544,8 +544,9 @@ He said to them,
                     <h2 className={styles.chapter}>New Cloth on Old Garment &darr;</h2>
                     <p> (  MARK 2:21-22 )
  <span className={styles.span}>  
-        “No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse. And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.”</p>
+        “No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse. And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.”
    </span>
+   </p>
    
    </div>
 
@@ -555,8 +556,9 @@ He said to them,
   
               So Jesus called them over to him and began to speak to them in parables
                  <span className={styles.span}>
-                : “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."</p>
+                : “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."
                 </span>
+                </p>
                 
                 </div>
        <div className={styles.card}>
