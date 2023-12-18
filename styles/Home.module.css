@@ -532,6 +532,7 @@
     font-size: 1.75rem;
     line-height: 1.5;
     font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
+    text-shadow: 2px 2px 4px whitesmoke;    
 }
 
 .card p:hover {
