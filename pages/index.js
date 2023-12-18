@@ -578,10 +578,13 @@ He said to them,
               "So Jesus called them over to him and began to speak to them in parables:
                  <span className={styles.span}>
                 
-                “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."</p>
+                “How can Satan drive out Satan? If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house."
                       
                 </span>
-                  </div>
+
+                </p>
+                
+        </div>
                      <div className={styles.card}>
                           <h2 className={styles.chapter}>Parable of The Sower</h2>
                       <p>( Mark 4:26-33 )
@@ -641,8 +644,7 @@ He said to them,
                 
                               “What comes out of a person is what defiles them. For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. All these evils come from inside and defile a person.”
                               </span>
-                            <
-                              /p>
+                            </p>
                         </div>
                          <div className={styles.card}>
                           <h2 className={styles.chapter}>Parable of The Tenant Farmers </h2> 
@@ -689,10 +691,12 @@ He said to them,
                    <div className={styles.card}>
                                             <h2 className={styles.chapter}>Parable of Faithful vs. Wicked Servant </h2>
                                             <p>( MARK 13:34-37 )
-                  It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
+
+    <span className={styles.span}>
+      It’s like a man going away: He leaves his house and puts his servants in charge, each with their assigned task, and tells the one at the door to keep watch.
 
                   “Therefore keep watch because you do not know when the owner of the house will come back—whether in the evening, or at midnight, or when the rooster crows, or at dawn. If he comes suddenly, do not let him find you sleeping. What I say to you, I say to everyone: ‘Watch!’”
-
+      </span>
                         </p>
               </div>
 
