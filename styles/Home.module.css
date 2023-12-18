@@ -116,13 +116,13 @@
 .parables {
     display: grid;
     text-align: center;
-    color: whitesmoke;
+    color: #000000;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px whitesmoke;
     font-family: Nanum Brush Script, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
@@ -639,7 +639,7 @@
   .parables {
     display: grid;
     text-align: center;
-    color: whitesmoke;
+    color: black;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
