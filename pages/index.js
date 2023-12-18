@@ -392,17 +392,24 @@ Jesus said to them,
    <h2 className={styles.chapter}>
   Parable of The Tenant Farmers</h2> 
 <p>MATTHEW ( 21:33-45 )
-“Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. When the harvest time approached, he sent his servants to the tenants to collect his fruit.
+
+   <span className={styles.span}>
+     “Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. When the harvest time approached, he sent his servants to the tenants to collect his fruit.
 
 “The tenants seized his servants; they beat one, killed another, and stoned a third. Then he sent other servants to them, more than the first time, and the tenants treated them the same way. Last of all, he sent his son to them. ‘They will respect my son,’ he said.
 
 “But when the tenants saw the son, they said to each other, ‘This is the heir. Come, let’s kill him and take his inheritance.’ So they took him and threw him out of the vineyard and killed him.
 
-“Therefore, when the owner of the vineyard comes, what will he do to those tenants?”
+“Therefore, when the owner of the vineyard comes, what will he do to those tenants?”</span>
+
+     
 
 “He will bring those wretches to a wretched end,” they replied, “and he will rent the vineyard to other tenants, who will give him his share of the crop at harvest time.”
 
-Jesus said to them, “Have you never read in the Scriptures:
+Jesus said to them,
+  
+   <span className={styles.span}>
+  “Have you never read in the Scriptures:
 
 “‘The stone the builders rejected
 
@@ -414,7 +421,9 @@ the Lord has done this,
 
 “Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit. 44 Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed.”
 
-When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them.</p>
+When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them.
+  </span>
+  </p>
   </div>
     <div className={styles.card}>
    <h2 className={styles.chapter}>
