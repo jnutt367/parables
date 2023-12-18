@@ -37,7 +37,8 @@ export default function Home() {
                  <iframe width="100%" height="300" src="https://www.youtube.com/embed/zRC8COfdzTY?si=AUjoxJHhJnVVFbUh&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             
          </div>
-<p className={styles.parables}> Jesus reveals "knowledge of the secrets of the kingdom of heaven" to those with ears to hear</p>
+<p className={styles.parables}> “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. 
+              </p>
             <div className={styles.nav}>               
        <a href="https://mypsalms.vercel.app/">
      <p>Prev</p>
