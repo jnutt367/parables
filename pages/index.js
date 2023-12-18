@@ -312,7 +312,7 @@ Parable of The Net</h2>
     “See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven.
 
 “What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off? And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off. In the same way your Father in heaven is not willing that any of these little ones should perish. 
-    </sapn>
+    </span>
     </p>
   </div>
 
