@@ -37,7 +37,7 @@ export default function Home() {
                  <iframe width="100%" height="300" src="https://www.youtube.com/embed/zRC8COfdzTY?si=AUjoxJHhJnVVFbUh&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             
          </div>
-<p className={styles.parables}> “This is why I speak to them in parables: 'Though seeing, they dont see; though hearing, they do not hear or understand.”
+<p className={styles.parables}> “..why I speak to them in parables: 'Though seeing, they dont see; though hearing, they dont hear or understand.”
               </p>
             <div className={styles.nav}>               
        <a href="https://mypsalms.vercel.app/">
