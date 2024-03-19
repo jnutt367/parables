@@ -21,7 +21,7 @@ export default function Home() {
             rel="stylesheet"  
               />                        
       </Head>
-
+<iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="400px"></iframe>
       <main className={styles.main}>
       
       <div className={styles.hero}>
@@ -37,7 +37,6 @@ export default function Home() {
                <iframe width="100%" height="300" src="https://www.youtube.com/embed/JIK4MjrpAwE?si=Aurm-n0pfXWQsfVx&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
 
-<iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="400px"></iframe>
 
 
               
