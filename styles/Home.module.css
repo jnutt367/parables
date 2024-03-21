@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+   background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));  
   width: 100%;
   display: grid;
   align-items: center;
@@ -32,7 +32,7 @@
 
 .holy {
   backgroud-color: transparent;
-  color: white;
+  color: purple;
   font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
@@ -50,7 +50,7 @@
   z-index: 10;
   margin-top: 0;
  font-family: Rubik Doodle Shadow, Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  color: white;
+  color:  purple;
   font-size: 52px;
   padding-left: 5px;
   display: grid;
@@ -249,7 +249,7 @@
 
 
 .title {
-  color: gold;
+  color: purple;
   position: sticky; 
   background-color: transparent;
   opacity: 0.8;
@@ -310,7 +310,7 @@
 
 .nav {
     background-color: gold;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);    
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));    
     color: black;
     opacity: 1;
     padding: 5px;
@@ -325,7 +325,7 @@
 
 .nav2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));   
     color: black;
     opacity: 1;
     padding: 5px;
@@ -365,7 +365,7 @@
 
 .grid {
     background-color: white;
-   background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));   
     color: black;
     display: flex;
     align-items: center;
@@ -377,7 +377,7 @@
 
 .grid2 {
     background-color: #37ADA2;
-    background-image: linear-gradient(to bottom right, #088F8F, #C7E0D4);  
+     background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));    
     color: white;
     display: flex;
     align-items: center;
@@ -467,7 +467,7 @@
 }
 .chapter {
     background-color: black;
-   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));  
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -485,7 +485,7 @@
 .chapter2 {
 
     background-color: #37ADA2;
-   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));  
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -652,7 +652,7 @@
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
-   background-image: linear-gradient(to bottom right, #C7E0D4, #088F8F);   
+    background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));  
     opacity:0.7;  
     font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
